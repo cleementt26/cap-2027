@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01",
-  "version": "5.0",
+  "updated": "2026-10-06",
+  "version": "5.1",
   "parties": [
     {
       "id": "lfi",
@@ -1483,9 +1483,73 @@
       "url": "https://www.ericzemmour.fr/industrie",
       "year": "2022",
       "checked": "2026-10-01"
+    },
+    "ecoprogramme2026": {
+      "label": "Les Écologistes · programme de 557 mesures, juillet 2026",
+      "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "year": "Juillet 2026",
+      "checked": "2026-10-06",
+      "note": "Document ajouté aux références. Aucune position du QCM recodée sans vérification de la mesure exacte."
     }
   },
   "news": [
+    {
+      "date": "Document de juillet 2026",
+      "type": "Programmes",
+      "title": "Les Écologistes mettent à disposition leur programme",
+      "body": "Le parti présente un programme de 557 mesures, accessible sur sa page « Projet 2027 ». Le document est daté de juillet 2026 : il ne s’agit pas d’une nouvelle publication d’octobre. Les positions du QCM restent identifiées par leurs propres sources et dates.",
+      "source": "Les Écologistes · programme daté de juillet 2026",
+      "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "relatedSources": [
+        {
+          "label": "Les Écologistes · page Projet 2027",
+          "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027"
+        }
+      ],
+      "checked": "2026-10-06"
+    },
+    {
+      "date": "4 octobre 2026",
+      "type": "Campagne",
+      "title": "Gabriel Attal appelle à une large coalition pour 2027",
+      "body": "Dans un entretien au Parisien repris sur son site de campagne, Gabriel Attal propose un rassemblement allant des électeurs sociaux-démocrates à ceux de la droite républicaine. Il réaffirme aussi ses objectifs d’économies budgétaires. Il s’agit d’un appel au rassemblement, pas d’un accord de coalition conclu.",
+      "source": "Gabriel Attal · site de campagne, 4 octobre 2026",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-parisien-rassemblement-jeunesse-et-dette",
+      "checked": "2026-10-06"
+    },
+    {
+      "date": "2 octobre 2026",
+      "type": "Candidature",
+      "title": "Le Parti animaliste présente Mira Markovic",
+      "body": "Le Parti animaliste annonce que sa cofondatrice Mira Markovic le représentera à la présidentielle de 2027. Cette annonce politique ne vaut pas validation de sa candidature par le Conseil constitutionnel.",
+      "source": "Parti animaliste · communiqué officiel",
+      "url": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+      "checked": "2026-10-06"
+    },
+    {
+      "date": "2 octobre 2026",
+      "type": "Primaire",
+      "title": "Le PS rappelle l’inscription à la primaire Choisir 2027",
+      "body": "Le PS relance l’appel à participer à la désignation menée avec Place publique. Le calendrier annoncé prévoit un premier tour les 9 et 10 octobre et, si nécessaire, un second les 16 et 17 octobre. Au 6 octobre, aucun résultat de cette primaire n’est connu.",
+      "source": "Parti socialiste · publication du 2 octobre 2026",
+      "url": "https://parti-socialiste.fr/actualites/il-te-reste/",
+      "relatedSources": [
+        {
+          "label": "PS · calendrier annoncé le 25 août 2026",
+          "url": "https://parti-socialiste.fr/actualites/choisir-2027-le-processus-de-designation-du-ou-de-la-candidat-e-socialiste-a-lelection-presidentielle-est-lance/"
+        }
+      ],
+      "checked": "2026-10-06"
+    },
+    {
+      "date": "1er octobre 2026",
+      "type": "Proposition",
+      "title": "Marine Le Pen propose une règle d’or budgétaire",
+      "body": "Dans une tribune du 1er octobre présentée par LCP le 2 octobre, Marine Le Pen propose de soumettre à référendum une règle budgétaire inscrite dans la Constitution. Elle fixerait une limite au déficit, avec des exceptions. Cette proposition de campagne n’est pas une mesure adoptée.",
+      "source": "LCP · analyse du 2 octobre 2026",
+      "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
+      "checked": "2026-10-06"
+    },
     {
       "date": "20 avril 2026",
       "type": "Investiture",
@@ -1509,14 +1573,6 @@
       "body": "La fédération de l’Oise rapporte sa réélection comme secrétaire national lors du congrès de Lille, avec 70,1 % des voix.",
       "source": "PCF Oise · compte rendu du congrès",
       "url": "https://oise.pcf.fr/132757"
-    },
-    {
-      "date": "Vérifié le 1er octobre 2026",
-      "type": "Programmes",
-      "title": "Le projet 2027 des Écologistes est en préparation",
-      "body": "Le parti décrit une refonte de son projet, alimentée par des commissions et des auditions. Les positions antérieures du QCM ne constituent pas un programme présidentiel définitif.",
-      "source": "Les Écologistes · projet 2027",
-      "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027"
     }
   ],
   "credits": [
@@ -2409,6 +2465,21 @@
       "logo": null,
       "positions": {},
       "note": "A écarté une candidature présidentielle lors de son entretien sur RTL."
+    },
+    {
+      "id": "c41",
+      "name": "Mira Markovic",
+      "party": "Parti animaliste",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
+      "partyId": null,
+      "source": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+      "sourceLabel": "Parti animaliste · communiqué du 2 octobre 2026",
+      "photo": null,
+      "logo": null,
+      "positions": {},
+      "note": "Présentée comme candidate par le Parti animaliste le 2 octobre 2026. Cette annonce ne constitue pas une validation par le Conseil constitutionnel.",
+      "checked": "2026-10-06"
     }
   ],
   "themes": [
@@ -2510,5 +2581,15 @@
     "alternativePositions": 8,
     "note": "Positions incompatibles avec la formulation précise ou non trouvées exclues du score. Sources historiques conservées avec leur date ; aucun programme 2027 déduit."
   },
-  "baseQuestionCount": 30
+  "baseQuestionCount": 30,
+  "newsAudit": {
+    "date": "2026-10-06",
+    "scope": "Actualités et changements de candidature depuis le 1er octobre 2026. Les dates du corpus QCM restent celles de researchAudit et des documents cités.",
+    "newCandidateIds": [
+      "c41"
+    ],
+    "corrections": [
+      "Disponibilité du programme des Écologistes, daté de juillet 2026, corrigée après vérification de la page officielle et du PDF."
+    ]
+  }
 }

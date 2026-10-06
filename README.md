@@ -4,7 +4,7 @@ Questionnaire de 30 questions, complément facultatif de 18 questions et compara
 
 ## ⚠️ Version provisoire — à actualiser avant l’élection
 
-**Le site doit être mis à jour à l’approche de la présidentielle 2027, lorsque les partis auront fixé leurs ambitions, leurs programmes et leurs candidats.** Les documents historiques ne sont pas tous des engagements pour 2027. Dernière vérification du corpus : 1er octobre 2026. Migration GitHub : 2 octobre 2026.
+**Le site doit être mis à jour à l’approche de la présidentielle 2027, lorsque les partis auront fixé leurs ambitions, leurs programmes et leurs candidats.** Les documents historiques ne sont pas tous des engagements pour 2027. Dernière vérification du corpus du QCM : 1er octobre 2026. Dernière mise à jour des actualités et ajout de candidature : 6 octobre 2026. Migration GitHub : 2 octobre 2026.
 
 L’actualisation est manuelle : vérifier les candidatures, programmes, sources, dates, actualités et décisions judiciaires, en distinguant faits établis, annonces et controverses. Ne pas attribuer automatiquement une position de parti à un candidat.
 

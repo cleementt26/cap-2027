@@ -37,3 +37,11 @@ Résultats remplacés par des fourchettes d’accord sur un périmètre identiqu
 ## 2 octobre 2026 — Hébergement GitHub Pages
 
 Bandeau permanent signalant le caractère provisoire du site et la nécessité d’une actualisation à l’approche de l’élection, lorsque les partis auront fixé leurs ambitions, programmes et candidatures. L’actualisation reste éditoriale et manuelle.
+
+## Version 5.1 · 6 octobre 2026
+
+Mise à jour limitée aux faits documentés. Ajout de Mira Markovic (Parti animaliste), présentée le 2 octobre, avec lien au communiqué officiel et initiales faute de portrait à licence vérifiée. Ajout d’actualités : appel de Gabriel Attal à une coalition le 4 octobre ; relance PS du 2 octobre et calendrier officiel de la primaire Choisir 2027 ; règle d’or budgétaire proposée par Marine Le Pen dans sa tribune du 1er octobre, selon LCP le 2. Les annonces restent distinctes d’un accord, d’une mesure adoptée ou d’une validation officielle de candidature.
+
+Correction de l’entrée Écologistes : la page Projet 2027 fournit un programme de 557 mesures, dont le PDF porte juillet 2026. La disponibilité est vérifiée le 6 octobre ; aucun lancement en octobre n’est inventé. Document ajouté aux références sans recoder les réponses du QCM.
+
+Les dates de mise à jour éditoriale et de vérification des actualités sont affichées séparément de la date du corpus de comparaison (1er octobre). Les questions, positions et calculs restent inchangés.
