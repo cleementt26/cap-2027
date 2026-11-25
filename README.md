@@ -4,7 +4,7 @@ Questionnaire de 30 questions, complément facultatif de 18 questions et compara
 
 ## ⚠️ Version provisoire — à actualiser avant l’élection
 
-**Le site doit être mis à jour à l’approche de la présidentielle 2027, lorsque les partis auront fixé leurs ambitions, leurs programmes et leurs candidats.** Les documents historiques ne sont pas tous des engagements pour 2027. Dernière vérification du corpus du QCM : 1er octobre 2026. Dernière mise à jour des actualités et ajout de candidature : 6 octobre 2026. Migration GitHub : 2 octobre 2026.
+**Le site doit être mis à jour à l’approche de la présidentielle 2027, lorsque les partis auront fixé leurs ambitions, leurs programmes et leurs candidats.** Les documents historiques ne sont pas tous des engagements pour 2027. Dernière revue éditoriale et des sources du QCM : 25 novembre 2026 (version 6.0). Les dates des documents historiques restent affichées ; cette revue ne constitue pas une certification d’exhaustivité. 47 profils suivis, 12 formations comparées. Migration GitHub : 2 octobre 2026.
 
 L’actualisation est manuelle : vérifier les candidatures, programmes, sources, dates, actualités et décisions judiciaires, en distinguant faits établis, annonces et controverses. Ne pas attribuer automatiquement une position de parti à un candidat.
 
@@ -18,9 +18,11 @@ GitHub Pages publie le dossier `docs/` de la branche `main`. Aucun serveur appli
 
 1. Modifier le corpus et les sources dans `editorial.json`, conserver les dates de vérification et les crédits des images.
 2. Lancer `node scripts/update-data.cjs` pour régénérer `docs/data.js`.
-3. Lancer `node tests/comparison.test.cjs`.
+3. Lancer `node scripts/validate-data.cjs` puis `node tests/comparison.test.cjs`.
 4. Adapter au besoin `docs/app.js`, `docs/comparison.js`, `docs/index.html` et `docs/style.css`.
-5. Documenter les changements dans `EDITORIAL.md`, puis pousser la branche `main`. GitHub Pages republie le site.
+5. Documenter les changements dans `EDITORIAL.md`, incrémenter la version des fichiers dans `docs/index.html`, puis pousser la branche `main`. GitHub Pages republie le site.
+
+Les programmes individuels documentés sont accessibles sur les fiches des candidats. Ils ne sont pas transférés automatiquement aux positions de leur parti. La question sur le SMIC compare désormais un minimum explicite de 1 600 € net à temps plein ; les propositions supérieures sont favorables à ce seuil, sans conversion estimée du brut en net.
 
 Une position absente reste inconnue. Les fourchettes expriment les accords possibles compte tenu de ces données manquantes ; ce ne sont pas des probabilités de vote ni des intervalles statistiques. Tous les partis sont comparés sur les mêmes réponses, avec un poids égal entre les thèmes actifs.
 

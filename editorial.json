@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06",
-  "version": "5.1",
+  "updated": "2026-11-25",
+  "version": "6.0",
   "parties": [
     {
       "id": "lfi",
@@ -12,108 +12,150 @@
       "positions": {
         "salaires": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 propose le SMIC à 1 600 € net."
+          "source": "lfi2027_fiscal",
+          "text": "Objectif documenté : SMIC à 1 700 € net, au moins égal au seuil demandé.",
+          "checked": "2026-11-25",
+          "reference": "Créer un état d’urgence sociale ; Augmenter les salaires"
         },
         "retraite": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 prévoit l’abrogation de la réforme de 2023."
+          "source": "lfi2027_social",
+          "text": "Abrogation de la réforme à 64 ans, puis retour progressif à 60 ans.",
+          "checked": "2026-11-25",
+          "reference": "Garantir une retraite digne"
         },
         "isf": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 prévoit un ISF renforcé avec un volet climatique."
+          "source": "lfi2027_fiscal",
+          "text": "ISF renforcé assorti d’une composante climatique.",
+          "checked": "2026-11-25",
+          "reference": "Faire la révolution fiscale"
         },
         "parcoursup": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 prévoit de supprimer Parcoursup."
+          "source": "lfi2027_education",
+          "text": "Démantèlement de Parcoursup et accès sans sélection.",
+          "checked": "2026-11-25",
+          "reference": "Refonder et ouvrir l’enseignement supérieur"
         },
         "nucleaire": {
           "value": 1,
-          "source": "lfinuc",
-          "text": "Le programme européen de LFI de 2024 prévoit une sortie planifiée du nucléaire."
+          "source": "lfi2027_ecologie",
+          "text": "Fermeture progressive des centrales et arrêt du programme EPR2.",
+          "checked": "2026-11-25",
+          "reference": "Organiser le 100 % d’énergies renouvelables"
         },
         "institutions": {
           "value": 1,
-          "source": "jlm",
-          "text": "Le site de campagne de Mélenchon défend la VIe République."
+          "source": "lfi2027_institutions",
+          "text": "Passage à une VIe République parlementaire.",
+          "checked": "2026-11-25",
+          "reference": "Abolir la monarchie présidentielle"
         },
         "index": {
           "value": 1,
-          "source": "nfp",
-          "text": "Indexation générale des salaires sur les prix."
+          "source": "lfi2027_fiscal",
+          "text": "Indexation générale des salaires privés et publics sur l’inflation.",
+          "checked": "2026-11-25",
+          "reference": "Augmenter les salaires"
         },
         "prix": {
           "value": 1,
-          "source": "nfp",
-          "text": "Encadrement des prix des produits essentiels."
+          "source": "lfi2027_fiscal",
+          "text": "Blocage et encadrement des prix des produits essentiels.",
+          "checked": "2026-11-25",
+          "reference": "Créer un état d’urgence sociale"
         },
         "profits": {
           "value": 1,
-          "source": "nfp",
-          "text": "Taxation des profits exceptionnels au niveau européen."
+          "source": "lfi2027_fiscal",
+          "text": "Taxation des surprofits des grandes entreprises en période de crise.",
+          "checked": "2026-11-25",
+          "reference": "Faire la révolution fiscale"
         },
         "flattax": {
           "value": 1,
-          "source": "nfp",
-          "text": "Suppression de la taxation forfaitaire du capital."
+          "source": "lfi2027_fiscal",
+          "text": "Suppression du PFU ; revenus du capital imposés comme le travail.",
+          "checked": "2026-11-25",
+          "reference": "Faire la révolution fiscale"
         },
         "loyers": {
           "value": 1,
-          "source": "nfp",
-          "text": "Plafonnement obligatoire des loyers en zones tendues."
+          "source": "lfi2027_logement",
+          "text": "Encadrement généralisé des loyers après un gel transitoire.",
+          "checked": "2026-11-25",
+          "reference": "Garantir le droit au logement"
         },
         "medecins": {
           "value": 1,
-          "source": "nfp",
-          "text": "Régulation de la répartition territoriale des médecins."
+          "source": "lfi2027_sante",
+          "text": "Installation des médecins régulée contre les déserts médicaux.",
+          "checked": "2026-11-25",
+          "reference": "Faire passer la santé d’abord et reconstruire les établissements de santé publics, notamment les hôpitaux"
         },
         "classes": {
           "value": 1,
-          "source": "nfp",
-          "text": "Objectif de classes inférieures à 19 élèves."
+          "source": "lfi2027_education",
+          "text": "Effectifs réduits pour passer sous la moyenne européenne de 19 élèves.",
+          "checked": "2026-11-25",
+          "reference": "Reconstruire une école globale pour l’égalité et l’émancipation"
         },
         "repas": {
           "value": 1,
-          "source": "nfp",
-          "text": "Repas universitaire à un euro."
+          "source": "lfi2027_jeunesse",
+          "text": "Repas à 1 € dans les Crous pour tous les étudiants.",
+          "checked": "2026-11-25",
+          "reference": "Construire l’autonomie des jeunes"
         },
         "regularisation": {
           "value": 1,
-          "source": "nfp",
-          "text": "Régularisation facilitée pour les travailleurs sans titre."
+          "source": "lfi2027_cooperation",
+          "text": "Régularisation des travailleurs sans papiers.",
+          "checked": "2026-11-25",
+          "reference": "Pour une politique migratoire humaniste et réaliste"
         },
         "embargo": {
           "value": 1,
-          "source": "nfp",
-          "text": "Arrêt des ventes d’armes à Israël."
+          "source": "lfi2027_paix",
+          "text": "Embargo sur les armes et biens à double usage vers Israël.",
+          "checked": "2026-11-25",
+          "reference": "Construire la paix"
         },
         "proportionnelle": {
           "value": 1,
-          "source": "nfp",
-          "text": "Adoption d’un scrutin législatif proportionnel."
+          "source": "lfi2027_institutions",
+          "text": "Assemblée nationale élue au scrutin proportionnel.",
+          "checked": "2026-11-25",
+          "reference": "Abolir la monarchie présidentielle"
         },
         "chomage": {
           "value": 1,
-          "source": "nfp",
-          "text": "Abrogation des réformes de l’assurance chômage."
+          "source": "lfi2027_social",
+          "text": "Annulation des réformes Macron relatives aux conditions et calcul des allocations.",
+          "checked": "2026-11-25",
+          "reference": "Rétablir une assurance chômage protectrice"
         },
         "audiovisuel": {
           "value": -1,
-          "source": "nfp",
-          "text": "Maintien d’un audiovisuel de service public."
+          "source": "lfi2027_institutions",
+          "text": "Indépendance et financement dédié de l’audiovisuel public.",
+          "checked": "2026-11-25",
+          "reference": "Une information libre et pluraliste"
         },
         "otan": {
           "value": 1,
-          "source": "lfipaix",
-          "text": "Retrait du commandement intégré puis, par étapes, de l’OTAN."
+          "source": "lfi2027_paix",
+          "text": "Retrait immédiat du commandement intégré, puis sortie graduelle de l’Alliance.",
+          "checked": "2026-11-25",
+          "reference": "Garantir l’indépendance de la France"
         },
         "csg": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 12 : progressivité de la CSG."
+          "value": null,
+          "source": "lfi2027_social",
+          "text": "Fusion des cotisations et de la CSG dans une cotisation sociale universelle avec part progressive.",
+          "checked": "2026-11-25",
+          "reference": "Construire la Sécurité sociale intégrale"
         },
         "autoroutes": {
           "value": 1,
@@ -122,46 +164,88 @@
         },
         "apl": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 4 : hausse des APL de 10 %."
+          "source": "lfi2027_fiscal",
+          "text": "Hausse de 10 % des APL.",
+          "checked": "2026-11-25",
+          "reference": "Créer un état d’urgence sociale"
         },
         "magistrats": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 16 : recrutements judiciaires."
+          "source": "lfi2027_justice",
+          "text": "Recrutements de magistrats et de greffiers.",
+          "checked": "2026-11-25",
+          "reference": "La justice au nom du peuple"
         },
         "police-proximite": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : police de proximité."
+          "source": "lfi2027_justice",
+          "text": "Rétablissement d’une police de proximité.",
+          "checked": "2026-11-25",
+          "reference": "Une police de proximité au service de la sûreté des citoyens"
         },
         "49-3": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : abrogation du 49.3."
+          "source": "lfi2027_institutions",
+          "text": "Abrogation des procédures de vote forcé, dont le 49.3.",
+          "checked": "2026-11-25",
+          "reference": "Abolir la monarchie présidentielle"
         },
         "ric": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : RIC."
+          "source": "lfi2027_institutions",
+          "text": "RIC proposant ou abrogeant une loi, révoquant des élus ou modifiant la Constitution.",
+          "checked": "2026-11-25",
+          "reference": "Le pouvoir au peuple"
+        },
+        "sol": {
+          "value": -1,
+          "source": "lfi2027_egalite",
+          "text": "Droit du sol intégral maintenu et rétabli sur tout le territoire.",
+          "checked": "2026-11-25",
+          "reference": "Faire France de tout bois"
+        },
+        "ame": {
+          "value": -1,
+          "source": "lfi2027_cooperation",
+          "text": "Garantie d’accès à l’Aide médicale d’État.",
+          "checked": "2026-11-25",
+          "reference": "Pour une politique migratoire humaniste et réaliste"
         }
       },
-      "official": "https://melenchon2027.fr/",
+      "official": "https://lafranceinsoumise.fr/2026/11/02/avenir-en-commun-nouvelle-france/",
       "photo": "assets/lfi-person.jpg",
-      "logo": "assets/lfi-logo.png"
+      "logo": "assets/lfi-logo.png",
+      "checked": "2026-11-25",
+      "programmeNote": "L’Avenir en commun pour 2027 a été publié le 6 novembre. Les positions ci-dessous utilisent ses chapitres lorsqu’une mesure correspond précisément à la question ; les anciens engagements restant utilisés sont datés.",
+      "documents": [
+        {
+          "url": "https://lafranceinsoumise.fr/2026/11/02/avenir-en-commun-nouvelle-france/",
+          "label": "LFI · annonce de publication du programme"
+        },
+        {
+          "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "label": "LFI · L’Avenir en commun 2027 · Partager les richesses"
+        },
+        {
+          "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "label": "LFI · L’Avenir en commun 2027 · Le pouvoir au peuple"
+        }
+      ]
     },
     {
       "id": "ps",
       "name": "Parti socialiste",
       "person": "Olivier Faure",
       "role": "Premier secrétaire",
-      "status": "Candidat à la primaire",
+      "status": "Soutient Raphaël Glucksmann",
       "description": "Parti socialiste français. Ses engagements du NFP en 2024 associent redistribution et investissement dans les services publics.",
       "positions": {
         "salaires": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 propose le SMIC à 1 600 € net."
+          "source": "ps2026_libres",
+          "text": "Objectif documenté : SMIC à 1 690 € net, au moins égal au seuil demandé.",
+          "checked": "2026-11-25",
+          "reference": "Mieux vivre au travail et de son travail"
         },
         "retraite": {
           "value": 1,
@@ -175,8 +259,10 @@
         },
         "parcoursup": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 prévoit de supprimer Parcoursup."
+          "source": "ps2026_egalite",
+          "text": "Abrogation de Parcoursup et procédure nationale publique de remplacement.",
+          "checked": "2026-11-25",
+          "reference": "Enseignement supérieur"
         },
         "index": {
           "value": 1,
@@ -195,8 +281,10 @@
         },
         "flattax": {
           "value": 1,
-          "source": "nfp",
-          "text": "Suppression de la taxation forfaitaire du capital."
+          "source": "ps2026_societe",
+          "text": "Suppression du prélèvement forfaitaire unique.",
+          "checked": "2026-11-25",
+          "reference": "Justice fiscale"
         },
         "loyers": {
           "value": 1,
@@ -205,18 +293,24 @@
         },
         "medecins": {
           "value": 1,
-          "source": "nfp",
-          "text": "Régulation de la répartition territoriale des médecins."
+          "source": "ps2026_securites",
+          "text": "Installation des médecins régulée, sauf remplacement dans les zones déjà dotées.",
+          "checked": "2026-11-25",
+          "reference": "Se faire soigner : un droit fondamental à garantir"
         },
         "classes": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Objectif de classes inférieures à 19 élèves."
+          "value": null,
+          "source": "ps2026_egalite",
+          "text": "Objectif de 19 élèves maximum ; seuil différent de moins de 19.",
+          "checked": "2026-11-25",
+          "reference": "Apprendre, se former"
         },
         "repas": {
           "value": 1,
-          "source": "nfp",
-          "text": "Repas universitaire à un euro."
+          "source": "ps2026_egalite",
+          "text": "Repas à 1 € pérennisé dans les restaurants universitaires pour tous.",
+          "checked": "2026-11-25",
+          "reference": "Enseignement supérieur"
         },
         "regularisation": {
           "value": 1,
@@ -230,8 +324,10 @@
         },
         "proportionnelle": {
           "value": 1,
-          "source": "nfp",
-          "text": "Adoption d’un scrutin législatif proportionnel."
+          "source": "ps2026_societe",
+          "text": "Scrutin législatif proportionnel inspiré du modèle allemand.",
+          "checked": "2026-11-25",
+          "reference": "La République démocratique du 21e siècle"
         },
         "chomage": {
           "value": 1,
@@ -244,9 +340,11 @@
           "text": "Maintien d’un audiovisuel de service public."
         },
         "csg": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 12 : progressivité de la CSG."
+          "value": null,
+          "source": "ps2026_societe",
+          "text": "Fusion IR–CSG–CRDS dans un impôt progressif ; mécanisme différent.",
+          "checked": "2026-11-25",
+          "reference": "Justice fiscale"
         },
         "autoroutes": {
           "value": 1,
@@ -260,51 +358,102 @@
         },
         "magistrats": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 16 : recrutements judiciaires."
+          "source": "ps2026_securites",
+          "text": "Recrutements de magistrats et greffiers pour pourvoir les postes vacants.",
+          "checked": "2026-11-25",
+          "reference": "La justice au nom du peuple"
         },
         "police-proximite": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : police de proximité."
+          "source": "ps2026_securites",
+          "text": "Reconstruction d’une police de proximité.",
+          "checked": "2026-11-25",
+          "reference": "Garantir le droit de chacun à la sûreté, partout"
         },
         "49-3": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : abrogation du 49.3."
+          "value": null,
+          "source": "ps2026_societe",
+          "text": "49.3 conservé pour les budgets ; suppression seulement pour les autres textes.",
+          "checked": "2026-11-25",
+          "reference": "La République démocratique du 21e siècle"
         },
         "ric": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : RIC."
+          "source": "ps2026_societe",
+          "text": "Création d’un référendum d’initiative citoyenne.",
+          "checked": "2026-11-25",
+          "reference": "La République démocratique du 21e siècle"
+        },
+        "nucleaire": {
+          "value": -1,
+          "source": "ps2026_libres",
+          "text": "Mix associant renouvelables et parc nucléaire partiellement renouvelé.",
+          "checked": "2026-11-25",
+          "reference": "Produire l’énergie de demain"
+        },
+        "europe": {
+          "value": 1,
+          "source": "ps2026_libres",
+          "text": "Intégration renforcée pour une souveraineté européenne commune.",
+          "checked": "2026-11-25",
+          "reference": "Construire la souveraineté européenne"
+        },
+        "dissuasion": {
+          "value": 1,
+          "source": "ps2026_libres",
+          "text": "Dissuasion nucléaire française maintenue sous décision nationale.",
+          "checked": "2026-11-25",
+          "reference": "Construire la défense de demain, pour l’Europe et ses nations"
         }
       },
-      "official": "https://parti-socialiste.fr/le-premier-secretaire/",
+      "official": "https://parti-socialiste.fr/communiques-de-presse/commerce-avec-les-colonies-quelle-est-la-position-de-la-macronie/",
       "photo": "assets/ps-person.png",
-      "logo": "assets/ps-logo.png"
+      "logo": "assets/ps-logo.png",
+      "checked": "2026-11-25",
+      "programmeNote": "Le Projet socialiste a été adopté en juillet 2026. Le PS soutient Raphaël Glucksmann depuis la primaire d’octobre. Le projet du parti et les engagements NFP de 2024 sont distingués du programme personnel de ce candidat.",
+      "documents": [
+        {
+          "url": "https://parti-socialiste.fr/actualites/le-projet-socialiste-adopte/",
+          "label": "PS · projet socialiste adopté"
+        },
+        {
+          "url": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "label": "PS · Projet socialiste · Vivre libres"
+        },
+        {
+          "url": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "label": "PS · Projet socialiste · Refaire société"
+        }
+      ]
     },
     {
       "id": "eco",
       "name": "Les Écologistes",
       "person": "Marine Tondelier",
       "role": "Secrétaire nationale",
-      "status": "Candidature déclarée",
+      "status": "Candidature et stratégie en discussion",
       "description": "Formation écologiste. Met au centre de son projet le climat, la biodiversité et la transformation de l’économie.",
       "positions": {
         "salaires": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 propose le SMIC à 1 600 € net."
+          "value": null,
+          "source": "eco2026_travail",
+          "text": "SMIC à 2 000 € brut ; montant et assiette différents.",
+          "checked": "2026-11-25",
+          "reference": "p.22"
         },
         "retraite": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 prévoit l’abrogation de la réforme de 2023."
+          "source": "ecoprogramme2026",
+          "text": "Abrogation de l’âge légal à 64 ans.",
+          "checked": "2026-11-25",
+          "reference": "p.116, 31-1"
         },
         "isf": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 prévoit un ISF renforcé avec un volet climatique."
+          "source": "ecoprogramme2026",
+          "text": "ISF rétabli avec composante climatique.",
+          "checked": "2026-11-25",
+          "reference": "p.66, 17-1"
         },
         "parcoursup": {
           "value": 1,
@@ -314,12 +463,16 @@
         "nucleaire": {
           "value": 1,
           "source": "ecoclimat",
-          "text": "Le manifeste climat demande de planifier la sortie du nucléaire."
+          "text": "Planification d’une sortie du nucléaire.",
+          "checked": "2026-11-25",
+          "reference": "proposition 7"
         },
         "index": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Indexation générale des salaires sur les prix."
+          "value": null,
+          "source": "eco2026_travail",
+          "text": "Indexation du point d’indice public ; portée différente.",
+          "checked": "2026-11-25",
+          "reference": "p.22"
         },
         "prix": {
           "value": 1,
@@ -332,24 +485,32 @@
           "text": "Taxation des profits exceptionnels au niveau européen."
         },
         "flattax": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Suppression de la taxation forfaitaire du capital."
+          "value": null,
+          "source": "ecoprogramme2026",
+          "text": "PFU augmenté de 3 points, plutôt que supprimé.",
+          "checked": "2026-11-25",
+          "reference": "p.68, 17-11"
         },
         "loyers": {
           "value": 1,
-          "source": "nfp",
-          "text": "Plafonnement obligatoire des loyers en zones tendues."
+          "source": "eco2026_logement",
+          "text": "Généralisation et pérennisation de l’encadrement des loyers.",
+          "checked": "2026-11-25",
+          "reference": "proposition 1"
         },
         "medecins": {
           "value": 1,
-          "source": "nfp",
-          "text": "Régulation de la répartition territoriale des médecins."
+          "source": "ecoprogramme2026",
+          "text": "Installation libérale soumise à autorisation territoriale.",
+          "checked": "2026-11-25",
+          "reference": "p.151, 45-2"
         },
         "classes": {
-          "value": 1,
-          "source": "nfp",
-          "text": "Objectif de classes inférieures à 19 élèves."
+          "value": null,
+          "source": "ecoprogramme2026",
+          "text": "Primaire : plafond de 19 élèves, 12 en REP.",
+          "checked": "2026-11-25",
+          "reference": "p.90, 23-1"
         },
         "repas": {
           "value": 1,
@@ -358,8 +519,10 @@
         },
         "regularisation": {
           "value": 1,
-          "source": "nfp",
-          "text": "Régularisation facilitée pour les travailleurs sans titre."
+          "source": "ecoprogramme2026",
+          "text": "Régularisation des travailleurs selon des critères objectifs.",
+          "checked": "2026-11-25",
+          "reference": "p.178, 56-2"
         },
         "embargo": {
           "value": 1,
@@ -368,13 +531,17 @@
         },
         "proportionnelle": {
           "value": 1,
-          "source": "nfp",
-          "text": "Adoption d’un scrutin législatif proportionnel."
+          "source": "ecoprogramme2026",
+          "text": "Proportionnelle intégrale aux législatives.",
+          "checked": "2026-11-25",
+          "reference": "p.162, 49-1"
         },
         "chomage": {
           "value": 1,
-          "source": "nfp",
-          "text": "Abrogation des réformes de l’assurance chômage."
+          "source": "eco2026_travail",
+          "text": "Abrogation des réformes restrictives adoptées depuis 2017.",
+          "checked": "2026-11-25",
+          "reference": "p.29"
         },
         "audiovisuel": {
           "value": -1,
@@ -383,8 +550,10 @@
         },
         "csg": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 12 : progressivité de la CSG."
+          "source": "ecoprogramme2026",
+          "text": "CSG rendue progressive.",
+          "checked": "2026-11-25",
+          "reference": "p.67, 17-9"
         },
         "autoroutes": {
           "value": 1,
@@ -393,18 +562,24 @@
         },
         "apl": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 4 : hausse des APL de 10 %."
+          "source": "ecoprogramme2026",
+          "text": "APL augmentées de 10 %.",
+          "checked": "2026-11-25",
+          "reference": "p.119, 32-2"
         },
         "magistrats": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 16 : recrutements judiciaires."
+          "source": "ecoprogramme2026",
+          "text": "Création de postes de magistrats et greffiers.",
+          "checked": "2026-11-25",
+          "reference": "p.167, 51-2"
         },
         "police-proximite": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : police de proximité."
+          "source": "ecoprogramme2026",
+          "text": "Création d’une police nationale de proximité.",
+          "checked": "2026-11-25",
+          "reference": "p.164, 50-1"
         },
         "49-3": {
           "value": 1,
@@ -413,13 +588,62 @@
         },
         "ric": {
           "value": 1,
-          "source": "nfp",
-          "text": "Engagement de coalition NFP · 2024, p. 15 : RIC."
+          "source": "ecoprogramme2026",
+          "text": "RIC propositionnel et abrogatif.",
+          "checked": "2026-11-25",
+          "reference": "p.161, 48-10"
+        },
+        "sol": {
+          "value": -1,
+          "source": "ecoprogramme2026",
+          "text": "Droit du sol garanti sur tout le territoire.",
+          "checked": "2026-11-25",
+          "reference": "p.178, 56-3"
+        },
+        "ame": {
+          "value": -1,
+          "source": "ecoprogramme2026",
+          "text": "Accès à l’AME garanti.",
+          "checked": "2026-11-25",
+          "reference": "p.112, 29-7 ; p.178, 56-1"
+        },
+        "thermique": {
+          "value": -1,
+          "source": "ecoprogramme2026",
+          "text": "Ventes neuves zéro émission maintenues pour 2035.",
+          "checked": "2026-11-25",
+          "reference": "p.23, 3-1"
+        },
+        "europe": {
+          "value": 1,
+          "source": "ecoprogramme2026",
+          "text": "Fédéralisme européen et compétences communes renforcées.",
+          "checked": "2026-11-25",
+          "reference": "p.190, 60-1"
+        },
+        "dissuasion": {
+          "value": 1,
+          "source": "ecoprogramme2026",
+          "text": "Dissuasion conservée dans l’attente d’un désarmement multilatéral.",
+          "checked": "2026-11-25",
+          "reference": "p.193–194, 61-4"
         }
       },
-      "official": "https://lesecologistes.fr/trombinoscope/RqKQhLKtZmERCT0kmqPoF/marine-tondelier",
+      "official": "https://lesecologistes.fr/posts/3eCV7jmnt9PfojxACJF4Ox/defendre-et-etendre-l-etat-de-droit",
       "photo": "assets/eco-person.jpg",
-      "logo": "assets/eco-logo.png"
+      "logo": "assets/eco-logo.png",
+      "checked": "2026-11-25",
+      "programmeNote": "Le programme de 557 mesures est daté de juillet 2026. Un livret sur le travail est disponible en novembre. La discussion de coalition ne vaut pas retrait de Marine Tondelier ni adoption du programme d’un autre parti.",
+      "documents": [
+        {
+          "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+          "label": "Les Écologistes · programme de 557 mesures"
+        },
+        {
+          "url": "https://lesecologistes.fr/document/17eu3XNpFUHgWjSZ82G4Dp/livret-travail.pdf",
+          "label": "Les Écologistes · Travailler mieux"
+        }
+      ]
     },
     {
       "id": "pcf",
@@ -431,8 +655,10 @@
       "positions": {
         "salaires": {
           "value": 1,
-          "source": "nfp",
-          "text": "Le contrat du NFP de 2024 propose le SMIC à 1 600 € net."
+          "source": "pcf2026_loos",
+          "text": "Source locale PCF : SMIC à 1 700 € net, au moins égal au seuil demandé.",
+          "checked": "2026-11-25",
+          "reference": "Au niveau national"
         },
         "retraite": {
           "value": 1,
@@ -555,9 +781,25 @@
           "text": "Engagement de coalition NFP · 2024, p. 15 : RIC."
         }
       },
-      "official": "https://oise.pcf.fr/132757",
+      "official": "https://www.pcf.fr/quatre_vingts_ans_du_statut_des_fonctionnaires",
       "photo": "assets/pcf-person.jpg",
-      "logo": "assets/pcf-logo.png"
+      "logo": "assets/pcf-logo.png",
+      "checked": "2026-11-25",
+      "programmeNote": "Les engagements de coalition NFP de 2024 restent datés. Aucun nouveau programme présidentiel complet central n’a été établi dans cette revue. Une indication salariale plus récente issue d’une source officielle locale est signalée comme telle.",
+      "documents": [
+        {
+          "url": "https://partisocialiste92.fr/fedeps92/wp-content/uploads/2024/06/Programme-nouveaufrontpopulaire.pdf",
+          "label": "Contrat de législature du NFP · 2024"
+        },
+        {
+          "url": "https://www.pcf.fr/soiree_nucleaire_discours",
+          "label": "PCF · discours de Fabien Roussel sur le nucléaire"
+        },
+        {
+          "url": "https://loos.pcf.fr/?page_id=99",
+          "label": "PCF Loos · vie du parti et propositions de campagne"
+        }
+      ]
     },
     {
       "id": "ren",
@@ -574,9 +816,9 @@
         },
         "nucleaire": {
           "value": -1,
-          "text": "Engagement de coalition : construire 14 réacteurs nucléaires (p. 10).",
-          "source": "ensemble2024",
-          "checked": "2026-10-01"
+          "source": "reneco2025",
+          "text": "La convention économique de Renaissance prévoit la construction de 14 EPR et une accélération du nucléaire.",
+          "checked": "2026-11-25"
         },
         "repas": {
           "value": -1,
@@ -614,8 +856,9 @@
         },
         "pesticides": {
           "value": 1,
-          "source": "ensemble2024",
-          "text": "Engagement de coalition Ensemble · 2024, p. 10 : objectif de réduction de moitié."
+          "source": "reneco2025",
+          "text": "La convention de Renaissance prévoit une réduction de 50 % des pesticides d’ici 2030 via des contrats tripartites.",
+          "checked": "2026-11-25"
         },
         "leasing": {
           "value": 1,
@@ -636,11 +879,39 @@
           "value": 1,
           "source": "ensemble2024",
           "text": "Engagement de coalition Ensemble · 2024, p. 11 : maintien de la dissuasion."
+        },
+        "production": {
+          "value": 1,
+          "source": "reneco2025",
+          "text": "La convention économique de Renaissance du 21 juillet 2025 prévoit de poursuivre la baisse des impôts de production.",
+          "checked": "2026-11-25"
+        },
+        "sol": {
+          "value": -1,
+          "source": "renreg2025",
+          "text": "La convention régalienne de Renaissance du 26 mai 2025 rejette la suppression du droit du sol dans l’Hexagone.",
+          "checked": "2026-11-25"
         }
       },
       "official": "https://parti-renaissance.fr/le-parti",
       "photo": "assets/ren-person.jpg",
-      "logo": "assets/ren-logo.png"
+      "logo": "assets/ren-logo.png",
+      "programmeNote": "Les conventions du parti de 2025 sont distinguées des engagements de coalition de 2024. Aucun programme complet pour 2027 n’est déduit de ces documents.",
+      "documents": [
+        {
+          "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+          "label": "Renaissance · convention économique et climatique"
+        },
+        {
+          "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+          "label": "Renaissance · convention régalienne"
+        },
+        {
+          "url": "https://doc.ensemble-2024.fr/programme-legislatives-24.pdf",
+          "label": "Ensemble · engagements de coalition, législatives 2024"
+        }
+      ],
+      "checked": "2026-11-25"
     },
     {
       "id": "hor",
@@ -648,7 +919,7 @@
       "person": "Édouard Philippe",
       "role": "Président et fondateur",
       "status": "Candidature annoncée",
-      "description": "Parti fondé en 2021. Son manifeste défend la compétitivité, l’éducation et la maîtrise des finances publiques.",
+      "description": "Le premier volume du programme présidentiel d’Édouard Philippe a été publié le 18 novembre 2026. Les engagements du candidat sont distingués du manifeste du parti et de la coalition de 2024.",
       "positions": {
         "institutions": {
           "value": -1,
@@ -726,9 +997,25 @@
           "text": "Engagement de coalition Ensemble · 2024, p. 11 : maintien de la dissuasion."
         }
       },
-      "official": "https://horizonsleparti.fr/organisation/",
+      "official": "https://www.edouardphilippe.fr/programme",
       "photo": "assets/hor-person.jpg",
-      "logo": "assets/hor-logo.png"
+      "logo": "assets/hor-logo.png",
+      "checked": "2026-11-25",
+      "programmeNote": "Le programme personnel d’Édouard Philippe a un premier volume publié le 18 novembre. Il est présenté séparément des engagements d’Horizons et de la coalition Ensemble de 2024.",
+      "documents": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme",
+          "label": "Édouard Philippe · programme présidentiel, volume 1"
+        },
+        {
+          "url": "https://horizonsleparti.fr/wp-content/uploads/2021/10/manifeste-horizons-le-parti.pdf",
+          "label": "Horizons · manifeste fondateur"
+        },
+        {
+          "url": "https://doc.ensemble-2024.fr/programme-legislatives-24.pdf",
+          "label": "Ensemble · engagements de coalition, législatives 2024"
+        }
+      ]
     },
     {
       "id": "lr",
@@ -741,24 +1028,27 @@
         "nucleaire": {
           "value": -1,
           "source": "lr2026",
-          "text": "Propose de prolonger le parc nucléaire et de développer les nouveaux EPR2."
+          "text": "Les propositions LR prolongent le parc nucléaire vers 80 ans et défendent les nouveaux EPR2.",
+          "checked": "2026-11-25"
         },
         "eolien": {
           "value": 1,
           "source": "lr2026",
-          "text": "Propose de stopper les subventions aux nouvelles capacités éoliennes et photovoltaïques."
+          "text": "LR prévoit de stopper les subventions aux nouvelles capacités éoliennes et photovoltaïques.",
+          "checked": "2026-11-25"
         },
         "sol": {
           "value": 1,
-          "text": "Le président du parti propose d’abolir le droit du sol.",
           "source": "lrconst2026",
-          "checked": "2026-10-01"
+          "text": "L’entretien de Retailleau du 2 septembre 2026 propose d’abolir le droit du sol.",
+          "checked": "2026-11-25"
         },
         "peines": {
-          "value": 1,
-          "text": "Le président du parti veut rendre obligatoires les peines minimales.",
+          "value": null,
           "source": "lrconst2026",
-          "checked": "2026-10-01"
+          "text": "Peines minimales annoncées ; périmètre de récidive non précisé.",
+          "reference": "Entretien du 2 septembre 2026",
+          "checked": "2026-11-25"
         },
         "institutions": {
           "value": -1,
@@ -769,13 +1059,29 @@
       },
       "official": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/",
       "photo": "assets/lr-person.jpg",
-      "logo": "assets/lr-logo.png"
+      "logo": "assets/lr-logo.png",
+      "programmeNote": "Les propositions du parti et l’entretien de septembre 2026 sont distingués de la désignation de son candidat. La primaire de la droite et du centre reste en discussion au 25 novembre.",
+      "documents": [
+        {
+          "url": "https://republicains.fr/nos-propositions/",
+          "label": "LR · propositions"
+        },
+        {
+          "url": "https://republicains.fr/actualites/2026/09/02/en-france-la-seule-cour-supreme-cest-le-peuple-je-lui-donnerai-le-dernier-mot/",
+          "label": "LR · entretien Retailleau constitution"
+        },
+        {
+          "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/",
+          "label": "LR · désignation candidat"
+        }
+      ],
+      "checked": "2026-11-25"
     },
     {
       "id": "rn",
       "name": "Rassemblement national",
       "person": "Jordan Bardella",
-      "role": "Président",
+      "role": "Président réélu au congrès des 24–25 octobre 2026",
       "status": "Représentant du parti",
       "description": "Formation nationaliste. Le programme législatif de 2024 met en avant l’immigration, la sécurité et la priorité nationale.",
       "positions": {
@@ -787,7 +1093,8 @@
         "nucleaire": {
           "value": -1,
           "source": "rnnuc",
-          "text": "Le discours à Menton défend le renforcement du parc nucléaire."
+          "text": "Le discours de Bardella à Menton du 7 mars 2026 prévoit de valoriser et de renforcer le parc nucléaire.",
+          "checked": "2026-11-25"
         },
         "retraite": {
           "value": 1,
@@ -838,11 +1145,33 @@
           "value": -1,
           "source": "rn",
           "text": "Suspension de toutes les régularisations par les préfets."
+        },
+        "ric": {
+          "value": 1,
+          "source": "rnhome2026",
+          "text": "Le RN affiche son soutien au référendum d’initiative citoyenne sur son site officiel.",
+          "checked": "2026-11-25"
         }
       },
-      "official": "https://rassemblementnational.fr/discours/discours-de-jordan-bardella-a-menton",
+      "official": "https://z5pdobgufn.rassemblementnational.fr/congres2026",
       "photo": "assets/rn-person.jpg",
-      "logo": "assets/rn-logo.svg"
+      "logo": "assets/rn-logo.svg",
+      "checked": "2026-11-25",
+      "programmeNote": "Les mesures du site et les discours de 2026 complètent le programme législatif historique de 2024. Le congrès d’octobre confirme la présidence de Jordan Bardella et le soutien à Marine Le Pen.",
+      "documents": [
+        {
+          "url": "https://rassemblementnational.fr/",
+          "label": "RN · mesures affichées sur accueil"
+        },
+        {
+          "url": "https://rassemblementnational.fr/discours/discours-de-jordan-bardella-a-menton",
+          "label": "RN · discours Bardella Menton"
+        },
+        {
+          "url": "https://rassemblementnational.fr/documents/20240625-programme.pdf",
+          "label": "RN · programme des législatives"
+        }
+      ]
     },
     {
       "id": "rec",
@@ -850,7 +1179,7 @@
       "person": "Éric Zemmour",
       "role": "Président et fondateur",
       "status": "Candidature déclarée",
-      "description": "Parti fondé en 2021. Son programme européen de 2024 défend une approche centrée sur les nations et la maîtrise de l’immigration.",
+      "description": "Éric Zemmour poursuit sa campagne présidentielle de 2027. Son site présente cinq priorités nationales. Le programme européen de Reconquête de 2024 reste identifié comme historique.",
       "positions": {
         "nucleaire": {
           "value": -1,
@@ -866,39 +1195,48 @@
           "value": 1,
           "source": "rec",
           "text": "Abrogation du Pacte vert, dont les restrictions automobiles."
-        },
-        "production": {
-          "value": 1,
-          "text": "La priorité industrie prévoit une baisse des impôts de production.",
-          "source": "recindustrie2022",
-          "checked": "2026-10-01"
         }
       },
-      "official": "https://www.parti-reconquete.fr/",
+      "official": "https://www.ericzemmour.fr/priorites",
       "photo": "assets/rec-person.jpg",
-      "logo": "assets/rec-logo.svg"
+      "logo": "assets/rec-logo.svg",
+      "checked": "2026-11-25",
+      "programmeNote": "Les priorités personnelles d’Éric Zemmour sont accessibles séparément du programme européen de Reconquête de 2024.",
+      "documents": [
+        {
+          "url": "https://www.ericzemmour.fr/priorites",
+          "label": "Éric Zemmour · priorités présidentielles"
+        },
+        {
+          "url": "https://assets.ericzemmour.fr/document/Programme%20Reconqu%C3%AAte%20Europ%C3%A9ennes%202024.pdf",
+          "label": "Reconquête · programme européen"
+        }
+      ]
     },
     {
       "id": "lo",
       "name": "Lutte ouvrière",
       "person": "Nathalie Arthaud",
-      "role": "Candidature présidentielle déclarée",
+      "role": "Porte-parole",
       "status": "Candidature déclarée",
       "description": "Organisation trotskiste. Défend les intérêts des travailleurs et une transformation révolutionnaire de la société.",
-      "official": "https://www.lutte-ouvriere.org/portail/nathalie-arthaud.html",
+      "official": "https://www.nathalie-arthaud.info/",
       "photo": "assets/c14.jpg",
       "logo": null,
       "positions": {
         "index": {
           "value": 1,
-          "source": "loindex",
-          "text": "Défend une augmentation des salaires qui suit la hausse des prix."
+          "source": "lo2026_salaire",
+          "text": "Indexation générale des salaires sur la hausse des prix.",
+          "checked": "2026-11-25",
+          "reference": "400 à 500 € de plus et indexation sur les prix !"
         },
         "salaires": {
-          "value": null,
-          "text": "Défend un SMIC de 2 200 € nets. Ce montant diffère du seuil exact de 1 600 € de la question : aucune réponse binaire attribuée.",
-          "source": "lo2026",
-          "checked": "2026-10-01"
+          "value": 1,
+          "source": "lo2026_depliant",
+          "text": "Revendication du programme de lutte : SMIC à 2 200 € net, au moins égal au seuil demandé.",
+          "checked": "2026-11-25",
+          "reference": "p.2"
         },
         "profits": {
           "value": null,
@@ -912,54 +1250,117 @@
           "source": "lodroit2025",
           "checked": "2026-10-01"
         }
-      }
+      },
+      "checked": "2026-11-25",
+      "programmeNote": "Les documents de campagne de novembre précisent le salaire minimum revendiqué et l’indexation. Les autres positions restent liées à leurs sources et à leurs dates.",
+      "documents": [
+        {
+          "url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+          "label": "Lutte ouvrière · dépliant de campagne du 3 novembre"
+        },
+        {
+          "url": "https://lutte-ouvriere.org/portail/editoriaux/dargent-salaires-209901.html",
+          "label": "Lutte ouvrière · éditorial de Nathalie Arthaud"
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+          "label": "Lutte ouvrière · discours de Nathalie Arthaud, 26 septembre 2026"
+        }
+      ]
     },
     {
       "id": "upr",
       "name": "Union populaire républicaine",
       "person": "François Asselineau",
-      "role": "Candidature présidentielle déclarée",
+      "role": "Président et fondateur",
       "status": "Candidature déclarée",
-      "description": "Mouvement fondé en 2007, dont le programme de 2022 propose de sortir de l’Union européenne, de l’euro et de l’OTAN.",
+      "description": "Mouvement fondé en 2007. Défend la sortie de l’Union européenne, de l’euro et de l’OTAN. Le programme présidentiel 2027 est annoncé comme en préparation.",
       "official": "https://upr.fr/notre-programme",
       "photo": "assets/c18.jpg",
       "logo": null,
       "positions": {
         "frexit": {
           "value": 1,
-          "source": "upr",
-          "text": "Le programme de 2022 prévoit une sortie de l’Union européenne."
+          "source": "uprfondamentaux2026",
+          "text": "Orientation affichée : sortie de l’Union européenne.",
+          "checked": "2026-11-25",
+          "reference": "L’indépendance de la France"
         },
         "europe": {
           "value": -1,
-          "source": "upr",
-          "text": "Le programme de 2022 prévoit une sortie de l’Union européenne."
+          "source": "uprfondamentaux2026",
+          "text": "La sortie de l’Union s’oppose à cette orientation.",
+          "checked": "2026-11-25",
+          "reference": "L’indépendance de la France"
         },
         "otan": {
           "value": 1,
-          "source": "upr",
-          "text": "Le programme de 2022 prévoit une sortie de l’OTAN."
+          "source": "uprfondamentaux2026",
+          "text": "Sortie complète de l’OTAN, incluant son commandement intégré.",
+          "checked": "2026-11-25",
+          "reference": "L’indépendance de la France"
         },
         "peines": {
           "value": 1,
           "source": "upr",
-          "text": "Le programme de 2022 propose des peines planchers pour les récidivistes violents."
+          "text": "Programme 2022 : peines planchers pour récidivistes violents.",
+          "checked": "2026-11-25",
+          "reference": "Programme 2022, §23"
         },
         "proportionnelle": {
           "value": 1,
           "source": "upr",
-          "text": "Le programme de 2022 prévoit une part de proportionnelle aux législatives."
+          "text": "Programme 2022 : proportionnelle partielle aux législatives.",
+          "checked": "2026-11-25",
+          "reference": "Programme 2022, §13"
+        },
+        "ric": {
+          "value": 1,
+          "source": "uprfondamentaux2026",
+          "text": "Le référendum d’initiative citoyenne figure parmi les orientations.",
+          "checked": "2026-11-25",
+          "reference": "La souveraineté du peuple"
+        },
+        "dissuasion": {
+          "value": 1,
+          "source": "uprfondamentaux2026",
+          "text": "Le parti défend l’incessibilité de l’arme nucléaire.",
+          "checked": "2026-11-25",
+          "reference": "L’indépendance de la France"
+        },
+        "police-proximite": {
+          "value": 1,
+          "source": "upr",
+          "text": "Programme 2022 : rétablissement d’une police de proximité.",
+          "checked": "2026-11-25",
+          "reference": "Programme 2022, §23"
         }
-      }
+      },
+      "checked": "2026-11-25",
+      "programmeNote": "Le programme 2027 est encore annoncé en préparation au 25 novembre. Les orientations fondamentales sont distinguées des mesures du programme historique de 2022.",
+      "documents": [
+        {
+          "label": "État de publication du programme 2027",
+          "url": "https://upr.fr/notre-programme"
+        },
+        {
+          "label": "Orientations fondamentales de l’UPR",
+          "url": "https://upr.fr/nos-fondamentaux"
+        },
+        {
+          "label": "Programme présidentiel 2022 · historique",
+          "url": "https://upr.fr/notre-programme/programme-2022"
+        }
+      ]
     },
     {
       "id": "dlf",
       "name": "Debout la France",
       "person": "Nicolas Dupont-Aignan",
-      "role": "Candidature présidentielle déclarée",
+      "role": "Président",
       "status": "Candidature déclarée",
       "description": "Formation souverainiste présidée par Nicolas Dupont-Aignan. Le projet énergétique consulté défend une production majoritairement nucléaire.",
-      "official": "https://www.debout-la-france.fr/notre-projet/",
+      "official": "https://www.debout-la-france.fr/evenement/conference-de-presse-sur-le-projet-economique-le-12-11-2026/",
       "photo": "assets/c16.jpg",
       "logo": "assets/dlf-logo.png",
       "positions": {
@@ -970,8 +1371,10 @@
         },
         "eolien": {
           "value": 1,
-          "source": "dlfenergie",
-          "text": "Le projet prévoit de supprimer le soutien public à l’éolien et au solaire."
+          "source": "dlf2026_eco",
+          "text": "Suppression des aides publiques aux nouvelles installations éoliennes.",
+          "checked": "2026-11-25",
+          "reference": "mesure 25"
         },
         "sol": {
           "value": 1,
@@ -981,9 +1384,10 @@
         },
         "priorite": {
           "value": 1,
-          "text": "Prévoit de supprimer certaines aides sociales non contributives aux étrangers (mesure 14).",
-          "source": "dlfimm",
-          "checked": "2026-10-01"
+          "source": "dlf2026_eco",
+          "text": "Aides non contributives après cinq ans de résidence ; la page immigration prévoit une exclusion plus large.",
+          "checked": "2026-11-25",
+          "reference": "Économie n°24 ; page immigration n°14 (portées différentes)"
         },
         "regularisation": {
           "value": -1,
@@ -1011,8 +1415,10 @@
         },
         "ame": {
           "value": 1,
-          "source": "dlfimm",
-          "text": "DLF · projet consulté en 2026, mesure 13 : suppression de l’AME."
+          "source": "dlf2026_eco",
+          "text": "Suppression de l’Aide médicale d’État.",
+          "checked": "2026-11-25",
+          "reference": "mesure 24"
         },
         "quotas-etudiants": {
           "value": 1,
@@ -1038,16 +1444,69 @@
           "value": 1,
           "source": "dlfdef",
           "text": "DLF · projet consulté en 2026, mesure 2 : entretien de la dissuasion nucléaire."
+        },
+        "salaires": {
+          "value": 1,
+          "source": "dlf2026_eco",
+          "text": "SMIC à 1 600 € net par baisse des cotisations salariales.",
+          "checked": "2026-11-25",
+          "reference": "mesure 12"
+        },
+        "production": {
+          "value": 1,
+          "source": "dlf2026_eco",
+          "text": "Baisse des impôts de production.",
+          "checked": "2026-11-25",
+          "reference": "mesure 3"
+        },
+        "frexit": {
+          "value": 1,
+          "source": "dlf2026_democratie",
+          "text": "Sortie de l’Union européenne, soumise au référendum après négociation.",
+          "checked": "2026-11-25",
+          "reference": "mesures 6–7"
+        },
+        "ric": {
+          "value": 1,
+          "source": "dlf2026_democratie",
+          "text": "RIC législatif et constitutionnel à partir d’un million de signatures.",
+          "checked": "2026-11-25",
+          "reference": "mesure 1"
         }
-      }
+      },
+      "checked": "2026-11-25",
+      "programmeNote": "Les mesures économiques et démocratiques du site ont été relues en novembre. Les différentes pages ne sont pas toutes datées et peuvent différer sur certains critères ; aucune proposition absente n’est assimilée à un désaccord.",
+      "documents": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "label": "Debout la France · Économie et finances, 30 mesures"
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+          "label": "Debout la France · démocratie, 15 mesures"
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+          "label": "Debout la France · projet immigration, consulté en octobre 2026"
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/justice/",
+          "label": "Debout la France · projet justice, consulté en octobre 2026"
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/defense/",
+          "label": "Debout la France · projet défense, consulté en octobre 2026"
+        }
+      ]
     }
   ],
   "questions": [
     {
       "id": "salaires",
       "theme": "Pouvoir d’achat",
-      "text": "Porter le SMIC à 1 600 € net par mois.",
-      "help": "Cette proposition fixe un niveau de salaire minimum. Les effets sur l’emploi et le financement ne sont pas évalués par ce QCM."
+      "text": "Porter le SMIC à au moins 1 600 € net par mois pour un emploi à temps plein.",
+      "help": "Ce seuil est un minimum : les propositions de montant supérieur sont comptées comme favorables. Brut et net ne sont pas interchangeables. Les montants et modes de financement restent indiqués dans les sources.",
+      "revision": "2026-11-25"
     },
     {
       "id": "retraite",
@@ -1356,25 +1815,16 @@
       "url": "https://partisocialiste92.fr/fedeps92/wp-content/uploads/2024/06/Programme-nouveaufrontpopulaire.pdf",
       "year": "2024"
     },
-    "lfi": {
-      "label": "LFI · engagements du NFP, 2024",
-      "url": "https://lafranceinsoumise.fr/comparateur-programmes/",
-      "year": "2024"
-    },
     "ecoclimat": {
-      "label": "Les Écologistes · manifeste climat",
+      "label": "Les Écologistes · programme, climat",
       "url": "https://lesecologistes.fr/manifesto/43kFjaOORMfy3y4A0nShqw/1-gagner-la-bataille-du-climat",
-      "year": "Manifeste consulté en 2026"
+      "year": "2026",
+      "checked": "2026-11-25"
     },
     "pcfnuc": {
       "label": "PCF · discours de Fabien Roussel sur le nucléaire",
       "url": "https://www.pcf.fr/soiree_nucleaire_discours",
       "year": "2025"
-    },
-    "lr": {
-      "label": "LR · Notre projet pour la France",
-      "url": "https://republicains.fr/wp-content/uploads/2023/01/2023-01-16-lR-notre-projet-pour-la-france.pdf",
-      "year": "2023"
     },
     "rn": {
       "label": "RN · programme des législatives",
@@ -1382,9 +1832,10 @@
       "year": "2024"
     },
     "rnnuc": {
-      "label": "RN · discours à Menton",
+      "label": "RN · discours Bardella Menton",
       "url": "https://rassemblementnational.fr/discours/discours-de-jordan-bardella-a-menton",
-      "year": "2026"
+      "year": "2026",
+      "checked": "2026-11-25"
     },
     "hor": {
       "label": "Horizons · manifeste fondateur",
@@ -1419,7 +1870,8 @@
     "upr": {
       "label": "UPR · programme présidentiel 2022",
       "url": "https://upr.fr/notre-programme/programme-2022",
-      "year": "2022"
+      "year": "2022",
+      "checked": "2026-11-25"
     },
     "loindex": {
       "label": "Lutte ouvrière · salaires et prix",
@@ -1432,9 +1884,10 @@
       "year": "Projet historique, consulté en 2026"
     },
     "lr2026": {
-      "label": "Les Républicains · propositions consultées en octobre 2026",
+      "label": "LR · propositions",
       "url": "https://republicains.fr/nos-propositions/",
-      "year": "2026"
+      "year": "Page sans date de publication · consultée en novembre 2026",
+      "checked": "2026-11-25"
     },
     "ensemble2024": {
       "label": "Ensemble · engagements de coalition, législatives 2024",
@@ -1443,10 +1896,10 @@
       "checked": "2026-10-01"
     },
     "lrconst2026": {
-      "label": "LR · entretien de Bruno Retailleau, 2 septembre 2026",
+      "label": "LR · entretien Retailleau constitution",
       "url": "https://republicains.fr/actualites/2026/09/02/en-france-la-seule-cour-supreme-cest-le-peuple-je-lui-donnerai-le-dernier-mot/",
       "year": "2026",
-      "checked": "2026-10-01"
+      "checked": "2026-11-25"
     },
     "dlfimm": {
       "label": "Debout la France · projet immigration, consulté en octobre 2026",
@@ -1478,21 +1931,554 @@
       "year": "2025",
       "checked": "2026-10-01"
     },
-    "recindustrie2022": {
-      "label": "Éric Zemmour · priorité industrie, campagne 2022",
-      "url": "https://www.ericzemmour.fr/industrie",
-      "year": "2022",
-      "checked": "2026-10-01"
-    },
     "ecoprogramme2026": {
-      "label": "Les Écologistes · programme de 557 mesures, juillet 2026",
+      "label": "Les Écologistes · programme de 557 mesures",
       "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "year": "Juillet 2026",
-      "checked": "2026-10-06",
-      "note": "Document ajouté aux références. Aucune position du QCM recodée sans vérification de la mesure exacte."
+      "checked": "2026-11-25"
+    },
+    "reneco2025": {
+      "label": "Renaissance · convention économique et climatique",
+      "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+      "year": "2025",
+      "checked": "2026-11-25"
+    },
+    "renreg2025": {
+      "label": "Renaissance · convention régalienne",
+      "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+      "year": "2025",
+      "checked": "2026-11-25"
+    },
+    "ep2026": {
+      "label": "Édouard Philippe · programme présidentiel, volume 1",
+      "url": "https://www.edouardphilippe.fr/programme",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "epenergie2026": {
+      "label": "Édouard Philippe · énergie",
+      "url": "https://www.edouardphilippe.fr/programme/energie",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "epindustrie2026": {
+      "label": "Édouard Philippe · entreprises et industrie",
+      "url": "https://www.edouardphilippe.fr/programme/entreprises",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "epdefense2026": {
+      "label": "Édouard Philippe · défense",
+      "url": "https://www.edouardphilippe.fr/programme/defense",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "epjustice2026": {
+      "label": "Édouard Philippe · justice",
+      "url": "https://www.edouardphilippe.fr/programme/justice",
+      "year": "Page sans date de publication · consultée en novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "epecole2026": {
+      "label": "Édouard Philippe · école",
+      "url": "https://www.edouardphilippe.fr/programme/ecole",
+      "year": "Page sans date de publication · consultée en novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "epretraite2026": {
+      "label": "Édouard Philippe · retraites",
+      "url": "https://www.edouardphilippe.fr/programme/retraites",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "ezpriorites2026": {
+      "label": "Éric Zemmour · priorités présidentielles",
+      "url": "https://www.ericzemmour.fr/priorites",
+      "year": "Page sans date de publication · consultée en novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "ezlancement2026": {
+      "label": "Reconquête Haute-Savoie · lancement campagne",
+      "url": "https://fede74.parti-reconquete.fr/article/pour-un-avenir-francais",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "rncongres2026": {
+      "label": "RN · XIXe congrès Orléans",
+      "url": "https://z5pdobgufn.rassemblementnational.fr/congres2026",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "rnhome2026": {
+      "label": "RN · mesures affichées sur accueil",
+      "url": "https://rassemblementnational.fr/",
+      "year": "Page sans date de publication · consultée en novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lrinvest2026": {
+      "label": "LR · désignation candidat",
+      "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "knafortl2026": {
+      "label": "RTL · entretien Sarah Knafo",
+      "url": "https://www.rtl.fr/actu/politique/on-ne-craint-pas-la-concurrence-sur-rtl-sarah-knafo-dit-croire-plus-que-jamais-a-une-primaire-a-droite-et-assure-qu-il-n-est-absolument-pas-question-qu-eric-zemmour-se-retire-7900699235",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "primaires2411": {
+      "label": "Le Monde · primaire droite-centre",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-gabriel-attal-presse-edouard-philippe-de-proposer-une-autre-modalite-de-departage-face-a-son-refus-de-la-primaire_6814848_823448.html",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "attaljeunesse1110": {
+      "label": "Le Monde · pacte jeunesse Attal",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "mlpca0707": {
+      "label": "Cour d’appel de Paris · communiqué du 7 juillet 2026",
+      "url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20CP.pdf",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "mlptable0707": {
+      "label": "Cour d’appel de Paris · tableau des condamnations",
+      "url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20Tableau.pdf",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "mlpjuriste2710": {
+      "label": "Le Monde · entretien avec Didier Guérin",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "uprfondamentaux2026": {
+      "label": "UPR · orientations fondamentales",
+      "url": "https://upr.fr/nos-fondamentaux",
+      "year": "Page sans date de publication · relue en novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "uprprogramme2027": {
+      "label": "UPR · état de publication du programme 2027",
+      "url": "https://upr.fr/notre-programme",
+      "year": "Consulté en novembre 2026",
+      "checked": "2026-11-25",
+      "note": "Le site annonce un programme 2027 encore en préparation. Le programme 2022 reste identifié comme historique."
+    },
+    "lfi2027_fiscal": {
+      "label": "LFI · L’Avenir en commun 2027 · Partager les richesses",
+      "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_social": {
+      "label": "LFI · L’Avenir en commun 2027 · À chacun selon ses besoins",
+      "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_ecologie": {
+      "label": "LFI · L’Avenir en commun 2027 · Grands chantiers écologiques",
+      "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_education": {
+      "label": "LFI · L’Avenir en commun 2027 · Éducation et savoirs",
+      "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_sante": {
+      "label": "LFI · L’Avenir en commun 2027 · Santé",
+      "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_institutions": {
+      "label": "LFI · L’Avenir en commun 2027 · Le pouvoir au peuple",
+      "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_justice": {
+      "label": "LFI · L’Avenir en commun 2027 · Libertés publiques et sûreté",
+      "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre2",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_paix": {
+      "label": "LFI · L’Avenir en commun 2027 · Indépendance et paix",
+      "url": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre2",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_jeunesse": {
+      "label": "LFI · L’Avenir en commun 2027 · Égalité réelle et droits nouveaux",
+      "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_egalite": {
+      "label": "LFI · L’Avenir en commun 2027 · Contre le racisme et les discriminations",
+      "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre4",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_logement": {
+      "label": "LFI · L’Avenir en commun 2027 · Une France sans déserts de droits",
+      "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_cooperation": {
+      "label": "LFI · L’Avenir en commun 2027 · Coopérations internationales",
+      "url": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre3",
+      "year": "6 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lfi2027_sortie": {
+      "label": "LFI · annonce de publication du programme",
+      "url": "https://lafranceinsoumise.fr/2026/11/02/avenir-en-commun-nouvelle-france/",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "eco2026_travail": {
+      "label": "Les Écologistes · Travailler mieux",
+      "url": "https://lesecologistes.fr/document/17eu3XNpFUHgWjSZ82G4Dp/livret-travail.pdf",
+      "year": "Novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "eco2026_logement": {
+      "label": "Les Écologistes · programme, logement",
+      "url": "https://lesecologistes.fr/manifesto/1VEj8MDN3PHPwmprxozbqV/2-pouvoir-se-loger-decemment",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "ps2026_adoption": {
+      "label": "PS · projet socialiste adopté",
+      "url": "https://parti-socialiste.fr/actualites/le-projet-socialiste-adopte/",
+      "year": "Juillet 2026",
+      "checked": "2026-11-25",
+      "note": "Projet du parti adopté en juillet 2026 ; il ne constitue pas le programme personnel du candidat soutenu."
+    },
+    "ps2026_libres": {
+      "label": "PS · Projet socialiste · Vivre libres",
+      "url": "https://projet-socialiste.fr/projet/vivre-libres/",
+      "year": "Juillet 2026",
+      "checked": "2026-11-25"
+    },
+    "ps2026_securites": {
+      "label": "PS · Projet socialiste · Être en sécurité(s)",
+      "url": "https://projet-socialiste.fr/projet/etre-en-securites/",
+      "year": "Juillet 2026",
+      "checked": "2026-11-25"
+    },
+    "ps2026_egalite": {
+      "label": "PS · Projet socialiste · S’épanouir à égalité",
+      "url": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/",
+      "year": "Juillet 2026",
+      "checked": "2026-11-25"
+    },
+    "ps2026_societe": {
+      "label": "PS · Projet socialiste · Refaire société",
+      "url": "https://projet-socialiste.fr/projet/refaire-societe/",
+      "year": "Juillet 2026",
+      "checked": "2026-11-25"
+    },
+    "pcf2026_central": {
+      "label": "PCF · statut des fonctionnaires, Fabien Roussel secrétaire national",
+      "url": "https://www.pcf.fr/quatre_vingts_ans_du_statut_des_fonctionnaires",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "pcf2026_loos": {
+      "label": "PCF Loos · vie du parti et propositions de campagne",
+      "url": "https://loos.pcf.fr/?page_id=99",
+      "year": "Consulté en novembre 2026",
+      "checked": "2026-11-25",
+      "note": "Source officielle locale, non datée ; elle ne remplace pas un programme central complet."
+    },
+    "lo2026_depliant": {
+      "label": "Lutte ouvrière · dépliant de campagne du 3 novembre",
+      "url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+      "year": "Novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "lo2026_salaire": {
+      "label": "Lutte ouvrière · éditorial de Nathalie Arthaud",
+      "url": "https://lutte-ouvriere.org/portail/editoriaux/dargent-salaires-209901.html",
+      "year": "2026",
+      "checked": "2026-11-25"
+    },
+    "dlf2026_eco": {
+      "label": "Debout la France · Économie et finances, 30 mesures",
+      "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "year": "Projet consulté en novembre 2026",
+      "checked": "2026-11-25",
+      "note": "Page de propositions sans date affichée ; présentation économique annoncée le 12 novembre."
+    },
+    "dlf2026_democratie": {
+      "label": "Debout la France · démocratie, 15 mesures",
+      "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "year": "Projet consulté en novembre 2026",
+      "checked": "2026-11-25"
+    },
+    "dlf2026_event": {
+      "label": "Debout la France · présentation du projet économique",
+      "url": "https://www.debout-la-france.fr/evenement/conference-de-presse-sur-le-projet-economique-le-12-11-2026/",
+      "year": "2026",
+      "checked": "2026-11-25"
     }
   },
   "news": [
+    {
+      "eventDate": "2026-11-24",
+      "date": "24 novembre 2026",
+      "type": "Campagne",
+      "title": "La primaire de la droite et du centre reste en discussion",
+      "body": "Attal défend une procédure de départage ; Philippe refuse la primaire. Lisnard souhaite y inclure Zemmour, ce qu’Attal rejette. Au 25 novembre, aucune procédure commune n’est arrêtée.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-gabriel-attal-presse-edouard-philippe-de-proposer-une-autre-modalite-de-departage-face-a-son-refus-de-la-primaire_6814848_823448.html",
+      "source": "Le Monde · primaire droite-centre",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-23",
+      "date": "23 novembre 2026",
+      "type": "Campagne",
+      "title": "Knafo défend une primaire incluant Zemmour",
+      "body": "Sur RTL, Sarah Knafo confirme son soutien à la candidature Zemmour et écarte son retrait. Cela ne constitue pas une primaire nationale actée.",
+      "url": "https://www.rtl.fr/actu/politique/on-ne-craint-pas-la-concurrence-sur-rtl-sarah-knafo-dit-croire-plus-que-jamais-a-une-primaire-a-droite-et-assure-qu-il-n-est-absolument-pas-question-qu-eric-zemmour-se-retire-7900699235",
+      "source": "RTL · entretien Sarah Knafo",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-23",
+      "date": "23 novembre 2026",
+      "type": "Soutien",
+      "title": "Génération.s soutient Jean-Luc Mélenchon",
+      "body": "Le mouvement officialise ce soutien après un vote de ses adhérents. Benjamin Lucas-Lundy avait déjà renoncé à sa démarche de candidature à la primaire.",
+      "url": "https://lcp.fr/actualites/presidentielle-generations-officialise-son-soutien-a-jean-luc-melenchon-445502",
+      "source": "LCP · annonce du 23 novembre",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-21",
+      "date": "21 novembre 2026",
+      "type": "Retrait",
+      "title": "François Ruffin retire sa candidature",
+      "body": "Il annonce son retrait de la présidentielle le 21 novembre, sans apporter de soutien formel à un autre candidat dans cette annonce.",
+      "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+      "source": "LCP avec AFP · 21 novembre",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-20",
+      "date": "20 novembre 2026",
+      "type": "Candidature",
+      "title": "Dominique de Villepin déclare sa candidature",
+      "body": "Il annonce sa candidature le 20 novembre sous l’étiquette La France humaniste. Une annonce politique ne vaut pas validation par le Conseil constitutionnel.",
+      "url": "https://villepin.fr/",
+      "source": "Dominique de Villepin · lettre du 20 novembre",
+      "checked": "2026-11-25",
+      "relatedSources": [
+        {
+          "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+          "label": "LCP · annonce du 20 novembre"
+        }
+      ]
+    },
+    {
+      "eventDate": "2026-11-19",
+      "date": "19 novembre 2026",
+      "type": "Soutien",
+      "title": "Clémentine Autain défend un soutien à Mélenchon",
+      "body": "Elle présente sa position personnelle. La décision collective de L’Après doit encore être prise en décembre ; elle n’est pas confondue avec cet appel individuel.",
+      "url": "https://clementine-autain.fr/construire-le-chemin-de-la-victoire/",
+      "source": "Clémentine Autain · note du 19 novembre",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-19",
+      "date": "19 novembre 2026",
+      "type": "Calendrier",
+      "title": "L’Arcom présente les règles de couverture de la présidentielle",
+      "body": "La recommandation prévoit une période d’équité à partir du 4 janvier 2027, une équité renforcée à partir du 16 mars, puis l’égalité des temps de parole et d’antenne du 5 au 16 avril. Ces règles concernent la couverture audiovisuelle.",
+      "url": "https://www.arcom.fr/temps-parole/election/presidentielle/2027",
+      "source": "Arcom · règles présentées le 19 novembre",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-18",
+      "date": "18 novembre 2026",
+      "type": "Programme",
+      "title": "Édouard Philippe publie le premier volume de son programme présidentiel",
+      "body": "Le candidat présente notamment une relance du nucléaire, une baisse des impôts de production et une dissuasion modernisée.",
+      "url": "https://www.edouardphilippe.fr/programme",
+      "source": "Édouard Philippe · programme présidentiel, volume 1",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-18",
+      "date": "18 novembre 2026",
+      "type": "Campagne",
+      "title": "Marine Tondelier ouvre une discussion de coalition",
+      "body": "Elle reste candidate et se dit prête à négocier une coalition autour de Jean-Luc Mélenchon. Le choix des adhérents écologistes est attendu du 10 au 13 décembre. Cette discussion ne constitue pas un retrait.",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+      "source": "LCP · déclaration du 18 novembre",
+      "checked": "2026-11-25",
+      "relatedSources": [
+        {
+          "url": "https://lcp.fr/actualites/main-tendue-par-marine-tondelier-a-jean-luc-melenchon-une-trahison-selon-yannick-jadot",
+          "label": "LCP · calendrier du vote militant"
+        }
+      ]
+    },
+    {
+      "eventDate": "2026-11-12",
+      "date": "12 novembre 2026",
+      "type": "Programme",
+      "title": "Debout la France annonce une présentation de son projet économique",
+      "body": "Une conférence de presse consacrée au projet économique est annoncée pour le 12 novembre. Les mesures actuellement disponibles sur le site sont documentées séparément de cette annonce ; leurs objectifs ne sont pas présentés comme des résultats évalués.",
+      "url": "https://www.debout-la-france.fr/evenement/conference-de-presse-sur-le-projet-economique-le-12-11-2026/",
+      "source": "Debout la France · annonce de présentation",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-09",
+      "date": "9 novembre 2026",
+      "type": "Candidature",
+      "title": "Teddy Riner annonce sa candidature",
+      "body": "A annoncé sa candidature le 9 novembre 2026, dans un entretien au Parisien et une vidéo. Son programme est présenté comme en construction. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-je-suis-candidat-pour-dire-quon-peut-relever-la-france-teddy-riner-se-lance-dans-la-competition-09-11-2026-36MFSFMWDFGATLM2YGR3MDF4QI.php",
+      "source": "Le Parisien · entretien du 9 novembre 2026",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-11-06",
+      "date": "6 novembre 2026",
+      "type": "Programme",
+      "title": "LFI publie son programme pour 2027",
+      "body": "La nouvelle édition de L’Avenir en commun est publiée le 6 novembre. Les chapitres relus servent à actualiser les positions du QCM lorsque leur formulation correspond à la question.",
+      "url": "https://lafranceinsoumise.fr/2026/11/02/avenir-en-commun-nouvelle-france/",
+      "source": "La France insoumise · annonce du 2 novembre",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-10-25",
+      "date": "25 octobre 2026",
+      "type": "Vie des partis",
+      "title": "Bardella réélu à la présidence du RN, qui soutient toujours Marine Le Pen",
+      "body": "Le congrès des 24 et 25 octobre réélit Jordan Bardella président du RN et confirme le soutien du mouvement à la candidature présidentielle de Marine Le Pen. La présidence du parti et la candidature présidentielle sont deux fonctions distinctes.",
+      "url": "https://z5pdobgufn.rassemblementnational.fr/congres2026",
+      "source": "RN · XIXe congrès Orléans",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-10-17",
+      "date": "17 octobre 2026",
+      "type": "Justice",
+      "title": "Marine Le Pen : une étape de procédure annoncée pour décembre",
+      "body": "Après le pourvoi contre sa condamnation en appel, l’examen de questions prioritaires de constitutionnalité est annoncé pour le 16 décembre. Il s’agit d’une étape de procédure ; elle ne préjuge pas de l’issue des pourvois ni de la liste officielle des candidats.",
+      "url": "https://www.rtl.fr/actu/justice-faits-divers/proces-des-assistants-parlementaires-du-rn-la-cour-de-cassation-examinera-les-qpc-le-16-decembre-une-date-cruciale-avant-la-presidentielle-2027-7900686372",
+      "source": "RTL · 17 octobre 2026",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-10-14",
+      "date": "14 octobre 2026",
+      "type": "Candidature",
+      "title": "Natacha Polony annonce sa candidature",
+      "body": "A déclaré sa candidature le 14 octobre 2026. Sa déclaration figure sur son site personnel de campagne. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "url": "https://www.npolony.fr/partage/article-59062",
+      "source": "Natacha Polony · déclaration du 14 octobre 2026",
+      "checked": "2026-11-25"
+    },
+    {
+      "eventDate": "2026-10-11",
+      "date": "11 octobre 2026",
+      "type": "Désignation",
+      "title": "Glucksmann remporte la primaire sociale-démocrate",
+      "body": "Le résultat annoncé le 11 octobre le désigne dès le premier tour, avec le soutien du PS et de Place publique. Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel n’ont pas été désignés. Cette désignation ne vaut pas validation officielle de candidature.",
+      "url": "https://action.place-publique.eu/actualite/1pLGM09haM00P1wJaOcI3c/raphael-glucksmann-avec-66-candidat-de-la-gauche-socialiste-et-democratique",
+      "source": "Place publique · résultat de la primaire",
+      "checked": "2026-11-25",
+      "relatedSources": [
+        {
+          "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+          "label": "LCP · résultat et participants"
+        }
+      ]
+    },
+    {
+      "eventDate": "2026-10-08",
+      "date": "8 octobre 2026",
+      "type": "Candidature",
+      "title": "Gilles Platret annonce sa candidature",
+      "body": "A annoncé sa candidature lors d’une réunion publique à Chalon-sur-Saône le 8 octobre 2026, relatée par la presse le lendemain. Ancien membre des Républicains. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-guerre-civile-a-deja-commence-le-maire-divers-droite-de-chalon-sur-saone-gilles-platret-annonce-sa-candidature-09-10-2026-7Z4HG62GOJHTNOFLHDN7J7HZLQ.php",
+      "source": "Le Parisien · annonce du 8 octobre 2026",
+      "checked": "2026-11-25"
+    },
+    {
+      "date": "4 octobre 2026",
+      "type": "Campagne",
+      "title": "Gabriel Attal appelle à une large coalition pour 2027",
+      "body": "Dans un entretien au Parisien repris sur son site de campagne, Gabriel Attal propose un rassemblement allant des électeurs sociaux-démocrates à ceux de la droite républicaine. Il réaffirme aussi ses objectifs d’économies budgétaires. Il s’agit d’un appel au rassemblement, pas d’un accord de coalition conclu.",
+      "source": "Gabriel Attal · site de campagne, 4 octobre 2026",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-parisien-rassemblement-jeunesse-et-dette",
+      "checked": "2026-10-06",
+      "eventDate": "2026-10-04",
+      "archived": true
+    },
+    {
+      "date": "2 octobre 2026",
+      "type": "Candidature",
+      "title": "Le Parti animaliste présente Mira Markovic",
+      "body": "Le Parti animaliste annonce que sa cofondatrice Mira Markovic le représentera à la présidentielle de 2027. Cette annonce politique ne vaut pas validation de sa candidature par le Conseil constitutionnel.",
+      "source": "Parti animaliste · communiqué officiel",
+      "url": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+      "checked": "2026-10-06",
+      "eventDate": "2026-10-02",
+      "archived": true
+    },
+    {
+      "date": "1er octobre 2026",
+      "type": "Proposition",
+      "title": "Marine Le Pen propose une règle d’or budgétaire",
+      "body": "Dans une tribune du 1er octobre présentée par LCP le 2 octobre, Marine Le Pen propose de soumettre à référendum une règle budgétaire inscrite dans la Constitution. Elle fixerait une limite au déficit, avec des exceptions. Cette proposition de campagne n’est pas une mesure adoptée.",
+      "source": "LCP · analyse du 2 octobre 2026",
+      "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
+      "checked": "2026-10-06",
+      "eventDate": "2026-10-01",
+      "archived": true
+    },
+    {
+      "date": "27 juillet 2026",
+      "type": "Propositions",
+      "title": "Les Écologistes présentent un plan face aux incendies",
+      "body": "Le parti publie des propositions pour la prévention des feux, les moyens d’intervention et l’adaptation des territoires au changement climatique.",
+      "source": "Les Écologistes · dossiers d’actualité",
+      "url": "https://lesecologistes.fr/share/page/2QkZn5p5btxTtcUkSv9nt3/nos-dossiers-d-actu",
+      "eventDate": "2026-07-27",
+      "archived": true
+    },
+    {
+      "date": "3–5 juillet 2026",
+      "type": "Vie des partis",
+      "title": "Fabien Roussel réélu à la direction du PCF",
+      "body": "Le site officiel local du PCF à Loos rapporte sa réélection comme secrétaire national lors du congrès de Lille, avec 70,1 % des voix.",
+      "source": "PCF Loos · compte rendu officiel local",
+      "url": "https://loos.pcf.fr/?page_id=99",
+      "eventDate": "2026-07-05",
+      "archived": true,
+      "checked": "2026-11-25"
+    },
     {
       "date": "Document de juillet 2026",
       "type": "Programmes",
@@ -1506,49 +2492,9 @@
           "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027"
         }
       ],
-      "checked": "2026-10-06"
-    },
-    {
-      "date": "4 octobre 2026",
-      "type": "Campagne",
-      "title": "Gabriel Attal appelle à une large coalition pour 2027",
-      "body": "Dans un entretien au Parisien repris sur son site de campagne, Gabriel Attal propose un rassemblement allant des électeurs sociaux-démocrates à ceux de la droite républicaine. Il réaffirme aussi ses objectifs d’économies budgétaires. Il s’agit d’un appel au rassemblement, pas d’un accord de coalition conclu.",
-      "source": "Gabriel Attal · site de campagne, 4 octobre 2026",
-      "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-parisien-rassemblement-jeunesse-et-dette",
-      "checked": "2026-10-06"
-    },
-    {
-      "date": "2 octobre 2026",
-      "type": "Candidature",
-      "title": "Le Parti animaliste présente Mira Markovic",
-      "body": "Le Parti animaliste annonce que sa cofondatrice Mira Markovic le représentera à la présidentielle de 2027. Cette annonce politique ne vaut pas validation de sa candidature par le Conseil constitutionnel.",
-      "source": "Parti animaliste · communiqué officiel",
-      "url": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
-      "checked": "2026-10-06"
-    },
-    {
-      "date": "2 octobre 2026",
-      "type": "Primaire",
-      "title": "Le PS rappelle l’inscription à la primaire Choisir 2027",
-      "body": "Le PS relance l’appel à participer à la désignation menée avec Place publique. Le calendrier annoncé prévoit un premier tour les 9 et 10 octobre et, si nécessaire, un second les 16 et 17 octobre. Au 6 octobre, aucun résultat de cette primaire n’est connu.",
-      "source": "Parti socialiste · publication du 2 octobre 2026",
-      "url": "https://parti-socialiste.fr/actualites/il-te-reste/",
-      "relatedSources": [
-        {
-          "label": "PS · calendrier annoncé le 25 août 2026",
-          "url": "https://parti-socialiste.fr/actualites/choisir-2027-le-processus-de-designation-du-ou-de-la-candidat-e-socialiste-a-lelection-presidentielle-est-lance/"
-        }
-      ],
-      "checked": "2026-10-06"
-    },
-    {
-      "date": "1er octobre 2026",
-      "type": "Proposition",
-      "title": "Marine Le Pen propose une règle d’or budgétaire",
-      "body": "Dans une tribune du 1er octobre présentée par LCP le 2 octobre, Marine Le Pen propose de soumettre à référendum une règle budgétaire inscrite dans la Constitution. Elle fixerait une limite au déficit, avec des exceptions. Cette proposition de campagne n’est pas une mesure adoptée.",
-      "source": "LCP · analyse du 2 octobre 2026",
-      "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
-      "checked": "2026-10-06"
+      "checked": "2026-10-06",
+      "eventDate": "2026-07-01",
+      "archived": true
     },
     {
       "date": "20 avril 2026",
@@ -1556,23 +2502,9 @@
       "title": "Les Républicains désignent Bruno Retailleau",
       "body": "Le parti annonce que 73,8 % des suffrages de sa consultation se sont prononcés pour sa désignation. Une investiture partisane ne vaut pas validation par le Conseil constitutionnel.",
       "source": "Les Républicains · annonce officielle",
-      "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/"
-    },
-    {
-      "date": "27 juillet 2026",
-      "type": "Propositions",
-      "title": "Les Écologistes présentent un plan face aux incendies",
-      "body": "Le parti publie des propositions pour la prévention des feux, les moyens d’intervention et l’adaptation des territoires au changement climatique.",
-      "source": "Les Écologistes · dossiers d’actualité",
-      "url": "https://lesecologistes.fr/share/page/2QkZn5p5btxTtcUkSv9nt3/nos-dossiers-d-actu"
-    },
-    {
-      "date": "3–5 juillet 2026",
-      "type": "Vie des partis",
-      "title": "Fabien Roussel réélu à la direction du PCF",
-      "body": "La fédération de l’Oise rapporte sa réélection comme secrétaire national lors du congrès de Lille, avec 70,1 % des voix.",
-      "source": "PCF Oise · compte rendu du congrès",
-      "url": "https://oise.pcf.fr/132757"
+      "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/",
+      "eventDate": "2026-04-20",
+      "archived": true
     }
   ],
   "credits": [
@@ -1903,6 +2835,46 @@
       "label": "Debout la France · logo",
       "url": "https://fr.wikipedia.org/wiki/Debout_la_France",
       "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Debout_la_France_logo_%282022%29.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "label": "Gilles Platret",
+      "url": "https://commons.wikimedia.org/wiki/File:GPlatret.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/GPlatret.jpg",
+      "author": "Jérémy Viger",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "label": "Natacha Polony",
+      "url": "https://commons.wikimedia.org/wiki/File:Natacha_Polony_Cannes_2015.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Natacha_Polony_Cannes_2015.jpg",
+      "author": "Georges Biard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "label": "Teddy Riner",
+      "url": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_Cannes_2016.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg",
+      "author": "Georges Biard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "label": "Anasse Kazib",
+      "url": "https://commons.wikimedia.org/wiki/File:Anasse_Kazib,_d%C3%A9cembre_2021_(cropped).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Anasse_Kazib%2C_d%C3%A9cembre_2021_%28cropped%29.jpg",
+      "author": "PabloMorao27",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "label": "Juan Branco",
+      "url": "https://commons.wikimedia.org/wiki/File:Juan_Branco_portrait.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Juan_Branco_portrait.png",
+      "author": "Yale University",
+      "license": "Public domain",
+      "licenseUrl": ""
     }
   ],
   "candidates": [
@@ -1914,11 +2886,18 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "lfi",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/lfi-person.jpg",
       "logo": "assets/lfi-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25",
+      "documents": [
+        {
+          "url": "https://melenchon2027.fr/programme/livre",
+          "label": "L’Avenir en commun 2027 · édition du 6 novembre 2026"
+        }
+      ]
     },
     {
       "id": "c2",
@@ -1928,11 +2907,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "ren",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/ren-person.jpg",
       "logo": "assets/ren-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c3",
@@ -1942,11 +2922,49 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "hor",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/hor-person.jpg",
       "logo": "assets/hor-logo.png",
-      "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "positions": {
+        "production": {
+          "value": 1,
+          "source": "epindustrie2026",
+          "text": "Le programme présidentiel 2027 d’Édouard Philippe prévoit 50 milliards d’euros d’impôts de production en moins, avec autant d’aides publiques supprimées.",
+          "checked": "2026-11-25"
+        },
+        "nucleaire": {
+          "value": -1,
+          "source": "epenergie2026",
+          "text": "Édouard Philippe prévoit 14 nouveaux réacteurs : 8 EPR supplémentaires aux 6 prévus.",
+          "checked": "2026-11-25"
+        },
+        "dissuasion": {
+          "value": 1,
+          "source": "epdefense2026",
+          "text": "Le programme présidentiel d’Édouard Philippe défend une dissuasion nucléaire modernisée.",
+          "checked": "2026-11-25"
+        }
+      },
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25",
+      "documents": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme",
+          "label": "Édouard Philippe · programme présidentiel, volume 1"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/energie",
+          "label": "Édouard Philippe · énergie"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/entreprises",
+          "label": "Édouard Philippe · entreprises et industrie"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/defense",
+          "label": "Édouard Philippe · défense"
+        }
+      ]
     },
     {
       "id": "c4",
@@ -1956,25 +2974,46 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "lr",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/lr-person.jpg",
       "logo": "assets/lr-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c5",
       "name": "Marine Le Pen",
       "party": "Rassemblement national",
       "status": "declare",
-      "statusLabel": "Candidature déclarée",
+      "statusLabel": "Candidature déclarée · procédure judiciaire en cours",
       "partyId": "rn",
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://z5pdobgufn.rassemblementnational.fr/congres2026",
+      "sourceLabel": "RN · XIXe congrès Orléans",
       "photo": "assets/c5.jpg",
       "logo": "assets/rn-logo.svg",
       "positions": {},
-      "note": "Candidature annoncée. Le suivi LCP la présente dans le contexte de la procédure d’appel concernant son éligibilité. Ce statut ne vaut pas validation officielle."
+      "note": "Le RN la présente comme sa candidate. Après l’arrêt de la cour d’appel du 7 juillet 2026, elle a formé un pourvoi en cassation. Les effets de la procédure sur son éligibilité font l’objet d’analyses divergentes. L’examen de questions prioritaires de constitutionnalité est annoncé pour le 16 décembre. Sa présence sur la liste officielle n’est pas acquise.",
+      "reviewed": "2026-11-25",
+      "checked": "2026-11-25",
+      "relatedSources": [
+        {
+          "url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20CP.pdf",
+          "label": "Cour d’appel de Paris · communiqué du 7 juillet 2026"
+        },
+        {
+          "url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20Tableau.pdf",
+          "label": "Cour d’appel de Paris · tableau des condamnations"
+        },
+        {
+          "url": "https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html",
+          "label": "Le Monde · entretien avec Didier Guérin"
+        },
+        {
+          "url": "https://www.rtl.fr/actu/justice-faits-divers/proces-des-assistants-parlementaires-du-rn-la-cour-de-cassation-examinera-les-qpc-le-16-decembre-une-date-cruciale-avant-la-presidentielle-2027-7900686372",
+          "label": "RTL · calendrier de cassation, 17 octobre 2026"
+        }
+      ]
     },
     {
       "id": "c6",
@@ -1983,12 +3022,45 @@
       "status": "declare",
       "statusLabel": "Candidature déclarée",
       "partyId": "rec",
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://fede74.parti-reconquete.fr/article/pour-un-avenir-francais",
+      "sourceLabel": "Reconquête Haute-Savoie · lancement campagne",
       "photo": "assets/rec-person.jpg",
       "logo": "assets/rec-logo.svg",
-      "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "positions": {
+        "priorite": {
+          "value": 1,
+          "source": "ezpriorites2026",
+          "text": "Éric Zemmour réserve aux Français les aides sociales non contributives, les allocations familiales et le logement social.",
+          "checked": "2026-11-25"
+        },
+        "ame": {
+          "value": 1,
+          "source": "ezpriorites2026",
+          "text": "Les priorités présidentielles d’Éric Zemmour prévoient explicitement la suppression de l’AME.",
+          "checked": "2026-11-25"
+        },
+        "isf": {
+          "value": -1,
+          "source": "ezpriorites2026",
+          "text": "Les priorités présidentielles d’Éric Zemmour prévoient la fin de l’impôt sur la fortune.",
+          "checked": "2026-11-25"
+        }
+      },
+      "note": "La campagne présidentielle est confirmée par Reconquête en novembre, avec un meeting le 21 novembre. Le 23 novembre, Sarah Knafo réaffirme son soutien à sa candidature et écarte un retrait. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25",
+      "checked": "2026-11-25",
+      "relatedSources": [
+        {
+          "url": "https://www.rtl.fr/actu/politique/on-ne-craint-pas-la-concurrence-sur-rtl-sarah-knafo-dit-croire-plus-que-jamais-a-une-primaire-a-droite-et-assure-qu-il-n-est-absolument-pas-question-qu-eric-zemmour-se-retire-7900699235",
+          "label": "RTL · entretien Sarah Knafo"
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.ericzemmour.fr/priorites",
+          "label": "Éric Zemmour · priorités présidentielles"
+        }
+      ]
     },
     {
       "id": "c7",
@@ -1998,39 +3070,50 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "pcf",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/pcf-person.jpg",
       "logo": "assets/pcf-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25",
+      "documents": [
+        {
+          "url": "https://www.fabienroussel2027.fr/",
+          "label": "Fabien Roussel · site de campagne"
+        }
+      ]
     },
     {
       "id": "c8",
       "name": "Marine Tondelier",
       "party": "Les Écologistes",
       "status": "declare",
-      "statusLabel": "Candidature déclarée",
+      "statusLabel": "Candidature maintenue · stratégie en discussion",
       "partyId": "eco",
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+      "sourceLabel": "LCP · déclaration du 18 novembre 2026",
       "photo": "assets/eco-person.jpg",
       "logo": "assets/eco-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Toujours candidate au 25 novembre. Le 18 novembre, elle s’est dite prête à négocier une coalition autour de Jean-Luc Mélenchon. Les adhérents des Écologistes doivent trancher du 10 au 13 décembre entre candidature autonome et soutien à un autre candidat. Une négociation ne constitue pas un retrait.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c9",
       "name": "Olivier Faure",
       "party": "Parti socialiste",
-      "status": "primaire",
-      "statusLabel": "Candidature à une primaire",
+      "status": "non-designe",
+      "statusLabel": "Non désigné à la primaire",
       "partyId": "ps",
-      "source": "https://lcp.fr/actualites/presidentielle-qui-sont-les-candidats-sur-la-ligne-de-depart-de-la-primaire-de-gauche",
-      "sourceLabel": "LCP · primaire, 16 septembre 2026",
+      "source": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+      "sourceLabel": "LCP · résultat de la primaire, 11 octobre 2026",
       "photo": "assets/ps-person.png",
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Candidature à la sélection du pôle social-démocrate ; une primaire ne constitue pas une investiture présidentielle définitive."
+      "note": "A participé à la primaire sociale-démocrate remportée dès le premier tour par Raphaël Glucksmann le 11 octobre. N’a pas été désigné comme candidat par cette primaire.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c10",
@@ -2040,11 +3123,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c10.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c11",
@@ -2054,11 +3138,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c11.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c12",
@@ -2068,11 +3153,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c12.png",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c13",
@@ -2082,11 +3168,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "ps",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c13.jpg",
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c14",
@@ -2096,11 +3183,18 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "lo",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c14.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25",
+      "documents": [
+        {
+          "url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+          "label": "Lutte ouvrière · dépliant de campagne du 3 novembre"
+        }
+      ]
     },
     {
       "id": "c15",
@@ -2110,11 +3204,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c15.png",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c16",
@@ -2124,11 +3219,18 @@
       "statusLabel": "Candidature déclarée",
       "partyId": "dlf",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c16.jpg",
       "logo": "assets/dlf-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25",
+      "documents": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "label": "Debout la France · Économie et finances, 30 mesures"
+        }
+      ]
     },
     {
       "id": "c17",
@@ -2138,11 +3240,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c17.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c18",
@@ -2151,12 +3254,14 @@
       "status": "declare",
       "statusLabel": "Candidature déclarée",
       "partyId": "upr",
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://upr.fr/actualites/presidentielle-2027-parrainez-francois-asselineau-en-ligne-directe",
+      "sourceLabel": "UPR · campagne de parrainages, 23 novembre 2026",
       "photo": "assets/c18.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Sa campagne de parrainages est confirmée par une publication de l’UPR du 23 novembre. Les présentations officielles des élus seront examinées par le Conseil constitutionnel ; un appel aux parrainages ne vaut pas validation de candidature.",
+      "reviewed": "2026-11-25",
+      "checked": "2026-11-25"
     },
     {
       "id": "c19",
@@ -2166,11 +3271,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c19.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c20",
@@ -2180,11 +3286,12 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": null,
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c21",
@@ -2194,25 +3301,28 @@
       "statusLabel": "Candidature déclarée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c21.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c22",
       "name": "François Ruffin",
       "party": "Debout",
-      "status": "declare",
-      "statusLabel": "Candidature déclarée",
+      "status": "retrait",
+      "statusLabel": "Candidature retirée",
       "partyId": null,
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+      "sourceLabel": "LCP avec AFP · 21 novembre 2026",
       "photo": "assets/c22.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "A annoncé le retrait de sa candidature le 21 novembre 2026, après l’échec de sa démarche de primaire commune à gauche. Il n’apporte pas de soutien formel à un autre candidat dans cette annonce.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c23",
@@ -2222,67 +3332,76 @@
       "statusLabel": "Candidature conditionnelle",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c23.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c24",
       "name": "Ségolène Royal",
       "party": "Parti socialiste",
-      "status": "primaire",
-      "statusLabel": "Candidature à une primaire",
+      "status": "non-designe",
+      "statusLabel": "Non désignée à la primaire",
       "partyId": "ps",
-      "source": "https://lcp.fr/actualites/presidentielle-qui-sont-les-candidats-sur-la-ligne-de-depart-de-la-primaire-de-gauche",
-      "sourceLabel": "LCP · primaire, 16 septembre 2026",
+      "source": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+      "sourceLabel": "LCP · résultat de la primaire, 11 octobre 2026",
       "photo": "assets/c24.jpg",
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Candidature à la sélection du pôle social-démocrate ; une primaire ne constitue pas une investiture présidentielle définitive."
+      "note": "A participé à la primaire sociale-démocrate remportée dès le premier tour par Raphaël Glucksmann le 11 octobre. N’a pas été désigné comme candidat par cette primaire.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c25",
       "name": "Jérôme Guedj",
       "party": "Parti socialiste",
-      "status": "primaire",
-      "statusLabel": "Candidature à une primaire",
+      "status": "non-designe",
+      "statusLabel": "Non désigné à la primaire",
       "partyId": "ps",
-      "source": "https://lcp.fr/actualites/presidentielle-qui-sont-les-candidats-sur-la-ligne-de-depart-de-la-primaire-de-gauche",
-      "sourceLabel": "LCP · primaire, 16 septembre 2026",
+      "source": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+      "sourceLabel": "LCP · résultat de la primaire, 11 octobre 2026",
       "photo": "assets/c25.jpg",
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Candidature à la sélection du pôle social-démocrate ; une primaire ne constitue pas une investiture présidentielle définitive."
+      "note": "A participé à la primaire sociale-démocrate remportée dès le premier tour par Raphaël Glucksmann le 11 octobre. N’a pas été désigné comme candidat par cette primaire.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c26",
       "name": "Raphaël Glucksmann",
       "party": "Place publique",
-      "status": "primaire",
-      "statusLabel": "Candidature à une primaire",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée · vainqueur de la primaire",
       "partyId": null,
-      "source": "https://lcp.fr/actualites/presidentielle-qui-sont-les-candidats-sur-la-ligne-de-depart-de-la-primaire-de-gauche",
-      "sourceLabel": "LCP · primaire, 16 septembre 2026",
+      "source": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+      "sourceLabel": "LCP · résultat de la primaire, 11 octobre 2026",
       "photo": "assets/c26.jpg",
       "logo": null,
       "positions": {},
-      "note": "Candidature à la sélection du pôle social-démocrate ; une primaire ne constitue pas une investiture présidentielle définitive."
+      "note": "Désigné dès le premier tour de la primaire sociale-démocrate, dont le résultat est annoncé le 11 octobre. Il est soutenu par le Parti socialiste et Place publique. Cette désignation ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c27",
       "name": "Emmanuel Maurel",
       "party": "Gauche républicaine et socialiste",
-      "status": "primaire",
-      "statusLabel": "Candidature à une primaire",
+      "status": "non-designe",
+      "statusLabel": "Non désigné à la primaire",
       "partyId": null,
-      "source": "https://lcp.fr/actualites/presidentielle-qui-sont-les-candidats-sur-la-ligne-de-depart-de-la-primaire-de-gauche",
-      "sourceLabel": "LCP · primaire, 16 septembre 2026",
+      "source": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+      "sourceLabel": "LCP · résultat de la primaire, 11 octobre 2026",
       "photo": "assets/c27.jpg",
       "logo": null,
       "positions": {},
-      "note": "Candidature à la sélection du pôle social-démocrate ; une primaire ne constitue pas une investiture présidentielle définitive."
+      "note": "A participé à la primaire sociale-démocrate remportée dès le premier tour par Raphaël Glucksmann le 11 octobre. N’a pas été désigné comme candidat par cette primaire.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c28",
@@ -2292,11 +3411,12 @@
       "statusLabel": "Candidature non officialisée",
       "partyId": "ps",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c28.jpg",
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c29",
@@ -2306,25 +3426,44 @@
       "statusLabel": "Candidature non officialisée",
       "partyId": null,
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c29.jpg",
       "logo": null,
       "positions": {},
-      "note": "Projet présidentiel présenté ; statut suivi comme candidature non officialisée dans le récapitulatif LCP du 24 septembre."
+      "note": "Présente un projet pour 2027 et recherche des parrainages. Aucune nouvelle déclaration personnelle datée n’a été établie dans cette revue : sa démarche ne suffit pas à constater une candidature formellement annoncée.",
+      "reviewed": "2026-11-25",
+      "documents": [
+        {
+          "label": "La Convention · projet présenté pour 2027",
+          "url": "https://www.la-convention.fr/"
+        }
+      ]
     },
     {
       "id": "c30",
       "name": "Dominique de Villepin",
       "party": "La France humaniste",
-      "status": "pressenti",
-      "statusLabel": "Candidature non officialisée",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
       "partyId": null,
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+      "sourceLabel": "LCP · déclaration du 20 novembre 2026",
       "photo": "assets/c30.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "A déclaré sa candidature le 20 novembre 2026 lors d’une conférence de presse à Paris, sous l’étiquette La France humaniste. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25",
+      "documents": [
+        {
+          "label": "Dominique de Villepin · lettre de candidature du 20 novembre 2026",
+          "url": "https://villepin.fr/"
+        },
+        {
+          "label": "La France humaniste · projet pour 2027",
+          "url": "https://lafrancehumaniste.fr/"
+        }
+      ]
     },
     {
       "id": "c31",
@@ -2334,11 +3473,12 @@
       "statusLabel": "Candidature non officialisée",
       "partyId": "ren",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c31.jpg",
       "logo": "assets/ren-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c32",
@@ -2347,54 +3487,63 @@
       "status": "pressenti",
       "statusLabel": "Candidature non officialisée",
       "partyId": null,
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-je-veux-doubler-le-salaire-median-je-propose-une-transformation-du-pays",
+      "sourceLabel": "Sud Radio · entretien du 15 novembre 2026",
       "photo": "assets/c32.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "A présenté cinquante propositions en novembre mais affirme le 15 novembre ne pas être candidat à ce stade. La publication d’un projet ne vaut pas déclaration de candidature.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c33",
       "name": "Jordan Bardella",
       "party": "Rassemblement national",
       "status": "soutien",
-      "statusLabel": "Soutien · pas candidat déclaré",
+      "statusLabel": "Président du RN · soutient Marine Le Pen",
       "partyId": "rn",
-      "source": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-jordan-bardella-promet-de-mettre-toute-son-energie-pour-que-marine-le-pen-lemporte-29-08-2026-WDY6YIGA3VD5ZMZNF2RBWTERUM.php",
-      "sourceLabel": "Le Parisien · 29 août 2026",
+      "source": "https://z5pdobgufn.rassemblementnational.fr/congres2026",
+      "sourceLabel": "RN · XIXe congrès Orléans",
       "photo": "assets/rn-person.jpg",
       "logo": "assets/rn-logo.svg",
       "positions": {},
-      "note": "Président du RN. Il présente Marine Le Pen comme candidate à la présidence et se présente comme candidat au poste de Premier ministre."
+      "note": "Réélu à la présidence du RN au congrès des 24 et 25 octobre 2026. Le parti soutient la candidature présidentielle de Marine Le Pen ; cette fonction de président ne constitue pas une candidature présidentielle personnelle.",
+      "reviewed": "2026-11-25",
+      "checked": "2026-11-25",
+      "relatedSources": []
     },
     {
       "id": "c34",
-      "name": "Benjamin Lucas",
+      "name": "Benjamin Lucas-Lundy",
       "party": "Génération.s",
-      "status": "retrait",
-      "statusLabel": "Retrait ou renoncement",
+      "status": "soutien",
+      "statusLabel": "Soutien à Jean-Luc Mélenchon",
       "partyId": null,
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://lcp.fr/actualites/presidentielle-generations-officialise-son-soutien-a-jean-luc-melenchon-445502",
+      "sourceLabel": "LCP · annonce de Génération.s, 23 novembre 2026",
       "photo": "assets/c34.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "A renoncé à sa démarche de candidature à la primaire en juillet 2026. Coordinateur de Génération.s, il soutient la candidature de Jean-Luc Mélenchon ; le mouvement officialise ce choix le 23 novembre après un vote de ses adhérents.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c35",
       "name": "Clémentine Autain",
       "party": "L’Après",
-      "status": "retrait",
-      "statusLabel": "Retrait ou renoncement",
+      "status": "soutien",
+      "statusLabel": "Appelle à soutenir Jean-Luc Mélenchon",
       "partyId": null,
-      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "source": "https://clementine-autain.fr/construire-le-chemin-de-la-victoire/",
+      "sourceLabel": "Clémentine Autain · note du 19 novembre 2026",
       "photo": "assets/c35.jpg",
       "logo": null,
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Après son renoncement à la primaire en juillet, elle défend à titre personnel un appel à voter pour Jean-Luc Mélenchon. Son mouvement L’Après doit décider lors de son Parlement des 12 et 13 décembre, suivi d’un vote militant clos le 15 décembre. Ce soutien personnel n’est pas encore une décision collective de L’Après.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c36",
@@ -2404,11 +3553,12 @@
       "statusLabel": "Soutien · pas candidat déclaré",
       "partyId": "ps",
       "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "sourceLabel": "LCP · suivi du 24 septembre 2026",
+      "sourceLabel": "LCP · panorama mis à jour le 14 octobre 2026",
       "photo": "assets/c36.jpg",
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel."
+      "note": "Le statut décrit une annonce politique. La candidature n’est pas validée par le Conseil constitutionnel.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c37",
@@ -2422,7 +3572,8 @@
       "photo": "assets/c37.jpg",
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Ne figure pas parmi les candidats retenus à la primaire. Cette fiche ne tranche pas les accusations à l’origine de sa suspension."
+      "note": "Ne figure pas parmi les candidats retenus à la primaire. Cette fiche ne tranche pas les accusations à l’origine de sa suspension.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c38",
@@ -2436,7 +3587,8 @@
       "photo": null,
       "logo": "assets/ps-logo.png",
       "positions": {},
-      "note": "Participation à la primaire envisagée, mais candidature non retenue dans la liste des cinq participants recensée par LCP."
+      "note": "Participation à la primaire envisagée, mais candidature non retenue dans la liste des cinq participants recensée par LCP.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c39",
@@ -2450,7 +3602,8 @@
       "photo": "assets/c39.jpg",
       "logo": null,
       "positions": {},
-      "note": "Participation à la primaire envisagée, mais candidature non retenue dans la liste des cinq participants recensée par LCP."
+      "note": "Participation à la primaire envisagée, mais candidature non retenue dans la liste des cinq participants recensée par LCP.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c40",
@@ -2464,7 +3617,8 @@
       "photo": "assets/c40.jpg",
       "logo": null,
       "positions": {},
-      "note": "A écarté une candidature présidentielle lors de son entretien sur RTL."
+      "note": "A écarté une candidature présidentielle lors de son entretien sur RTL.",
+      "reviewed": "2026-11-25"
     },
     {
       "id": "c41",
@@ -2479,7 +3633,104 @@
       "logo": null,
       "positions": {},
       "note": "Présentée comme candidate par le Parti animaliste le 2 octobre 2026. Cette annonce ne constitue pas une validation par le Conseil constitutionnel.",
-      "checked": "2026-10-06"
+      "checked": "2026-10-06",
+      "reviewed": "2026-11-25"
+    },
+    {
+      "id": "c42",
+      "name": "Gilles Platret",
+      "party": "Sans étiquette",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
+      "partyId": null,
+      "source": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-guerre-civile-a-deja-commence-le-maire-divers-droite-de-chalon-sur-saone-gilles-platret-annonce-sa-candidature-09-10-2026-7Z4HG62GOJHTNOFLHDN7J7HZLQ.php",
+      "sourceLabel": "Le Parisien · annonce du 8 octobre 2026",
+      "photo": "assets/c42.jpg",
+      "logo": null,
+      "positions": {},
+      "note": "A annoncé sa candidature lors d’une réunion publique à Chalon-sur-Saône le 8 octobre 2026, relatée par la presse le lendemain. Ancien membre des Républicains. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
+    },
+    {
+      "id": "c43",
+      "name": "Natacha Polony",
+      "party": "Sans étiquette",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
+      "partyId": null,
+      "source": "https://www.npolony.fr/partage/article-59062",
+      "sourceLabel": "Natacha Polony · déclaration du 14 octobre 2026",
+      "photo": "assets/c43.jpg",
+      "logo": null,
+      "positions": {},
+      "note": "A déclaré sa candidature le 14 octobre 2026. Sa déclaration figure sur son site personnel de campagne. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
+    },
+    {
+      "id": "c44",
+      "name": "Teddy Riner",
+      "party": "Sans étiquette",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
+      "partyId": null,
+      "source": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-je-suis-candidat-pour-dire-quon-peut-relever-la-france-teddy-riner-se-lance-dans-la-competition-09-11-2026-36MFSFMWDFGATLM2YGR3MDF4QI.php",
+      "sourceLabel": "Le Parisien · entretien du 9 novembre 2026",
+      "photo": "assets/c44.jpg",
+      "logo": null,
+      "positions": {},
+      "note": "A annoncé sa candidature le 9 novembre 2026, dans un entretien au Parisien et une vidéo. Son programme est présenté comme en construction. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
+    },
+    {
+      "id": "c45",
+      "name": "Selma Labib",
+      "party": "NPA–Révolutionnaires",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
+      "partyId": null,
+      "source": "https://www.npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+      "sourceLabel": "NPA–Révolutionnaires · communiqué du 17 juin 2026",
+      "photo": null,
+      "logo": null,
+      "positions": {},
+      "note": "Désignée par le NPA–Révolutionnaires lors de son comité politique national des 6 et 7 juin 2026 ; annonce publiée le 17 juin. Sa candidature est confirmée par un communiqué de campagne du 23 novembre. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
+    },
+    {
+      "id": "c46",
+      "name": "Anasse Kazib",
+      "party": "Révolution permanente",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
+      "partyId": null,
+      "source": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle",
+      "sourceLabel": "Révolution permanente · annonce du 1er juin 2026",
+      "photo": "assets/c46.jpg",
+      "logo": null,
+      "positions": {},
+      "note": "Candidature annoncée par Révolution permanente le 1er juin 2026, confirmée sur son site de campagne Anasse 2027 et par son meeting de novembre. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
+    },
+    {
+      "id": "c47",
+      "name": "Juan Branco",
+      "party": "Les Ruches",
+      "status": "declare",
+      "statusLabel": "Candidature déclarée",
+      "partyId": null,
+      "source": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+      "sourceLabel": "Sud Radio · entretien du 19 décembre 2025",
+      "photo": "assets/c47.png",
+      "logo": null,
+      "positions": {},
+      "note": "A présenté sa candidature et son projet pour 2027 lors d’un entretien sur Sud Radio le 19 décembre 2025. Son mouvement Les Ruches diffuse son projet et organise la recherche de parrainages. Cette annonce ne vaut pas validation par le Conseil constitutionnel.",
+      "checked": "2026-11-25",
+      "reviewed": "2026-11-25"
     }
   ],
   "themes": [
@@ -2575,21 +3826,44 @@
     "comparison": "strict_nonoverlapping_bounds"
   },
   "researchAudit": {
-    "date": "2026-10-01",
-    "comparableBefore": 101,
-    "comparableAfter": 116,
-    "alternativePositions": 8,
-    "note": "Positions incompatibles avec la formulation précise ou non trouvées exclues du score. Sources historiques conservées avec leur date ; aucun programme 2027 déduit."
+    "date": "2026-11-25",
+    "scope": "Revue des sources des douze formations ; relectures individuelles datées au niveau des positions.",
+    "note": "Les positions historiques non remplacées gardent leur source et leur année. Les programmes individuels sont séparés des positions de parti. Aucune position n’est inférée du silence d’un document. La revue ne certifie pas un programme complet pour chaque formation.",
+    "comparableBefore": 164,
+    "comparableAfter": 175,
+    "alternativePositions": 16
   },
   "baseQuestionCount": 30,
   "newsAudit": {
-    "date": "2026-10-06",
-    "scope": "Actualités et changements de candidature depuis le 1er octobre 2026. Les dates du corpus QCM restent celles de researchAudit et des documents cités.",
-    "newCandidateIds": [
-      "c41"
-    ],
-    "corrections": [
-      "Disponibilité du programme des Écologistes, daté de juillet 2026, corrigée après vérification de la page officielle et du PDF."
+    "date": "2026-11-25",
+    "scope": "Sélection des évolutions vérifiées depuis le 6 octobre 2026 ; archives séparées. Pas de mise à jour automatique."
+  },
+  "election": {
+    "firstRound": "2027-04-18",
+    "secondRound": "2027-05-02",
+    "firstRoundLabel": "18 avril 2027",
+    "secondRoundLabel": "2 mai 2027",
+    "note": "Vote la veille dans les sept territoires ultramarins précisés par l’Arcom. Les candidatures annoncées ne constituent pas la liste officielle.",
+    "source": "https://www.arcom.fr/temps-parole/election",
+    "sourceLabel": "Arcom · dates du scrutin",
+    "checked": "2026-11-25"
+  },
+  "candidateAudit": {
+    "date": "2026-11-25",
+    "scope": "Revue du panorama existant, recherches de changements et ajouts vérifiés. Sélection non exhaustive ; plusieurs statuts reposent encore sur des publications antérieures à novembre.",
+    "additions": [
+      "c42",
+      "c43",
+      "c44",
+      "c45",
+      "c46",
+      "c47"
     ]
-  }
+  },
+  "updateSummary": [
+    "Candidatures et désignations réexaminées ; nouvelles fiches et omissions corrigées, retraits conservés.",
+    "Programmes et documents récents ajoutés, avec leurs dates et leur attribution.",
+    "Sources du questionnaire réexaminées ; SMIC comparé sur un minimum explicite et formulations différentes signalées.",
+    "Actualités récentes séparées des archives ; calendrier du scrutin ajouté."
+  ]
 }

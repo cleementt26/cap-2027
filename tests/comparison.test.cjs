@@ -33,5 +33,5 @@ assert.deepEqual(C.indices(D,{theme:'justice',priorityOnly:true,weights:weights.
 for(const p of D.parties){for(const [id,pos] of Object.entries(p.positions)){assert.ok(D.questions.some(q=>q.id===id));assert.ok(D.sources[pos.source]);assert.ok(pos.value===null||C.binary(pos.value));}r=C.fair(D,p,user,weights,base);assert.ok(r.lower>=0&&r.upper<=1+1e-10&&r.upper>=r.lower);assert.equal(r.answered,30);}
 assert.equal(D.parties.length,12);
 // The fictional ecology test gets full agreement without assigning unknown party views.
-const eco=D.parties.find(p=>p.id==='eco'),ecoa=D.questions.map(q=>C.position(eco.positions[q.id])?eco.positions[q.id].value:null);r=C.fair(D,eco,ecoa,weights,base);assert.equal(r.lower,1);assert.equal(r.upper,1);assert.equal(r.compared,18);
+const eco=D.parties.find(p=>p.id==='eco'),ecoa=D.questions.map(q=>C.position(eco.positions[q.id])?eco.positions[q.id].value:null);r=C.fair(D,eco,ecoa,weights,base);assert.equal(r.lower,1);assert.equal(r.upper,1);assert.equal(r.compared,ecoa.slice(0,30).filter(C.binary).length);
 console.log('Fair comparison verified: equal themes, identical denominators, weighted priorities, unknown bounds, strict ordering, 30+18 scopes, 12 parties and source integrity.');

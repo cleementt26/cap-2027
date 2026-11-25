@@ -6,8 +6,8 @@ Le fichier editorial.json est la source du corpus. Après une modification, rég
 1. Vérifier la date, les représentants et les candidatures dans des sources officielles. Distinguer annonce, investiture et validation par le Conseil constitutionnel.
 2. Pour les positions : citer le document précis et son année. Ne pas attribuer la position d'un autre parti. Ne jamais convertir une absence de documentation en opposition. Réexaminer les positions de coalition à la publication des programmes 2027.
 3. Actualité : enregistrer événement, date, date de vérification, catégorie, résumé factuel et URL. Pour une controverse, inclure la réponse des intéressés et le stade judiciaire. Exclure les rumeurs. Aucune controverse ne modifie automatiquement les positions du QCM.
-4. Incrémenter version, updated et tenir le journal ci-dessous. Synchroniser la date visible dans app.js.
-5. Vérifier les calculs, les liens et les images, puis republier le même Site à partir de .openai/hosting.json. Préserver son audience.
+4. Incrémenter version, updated et tenir le journal ci-dessous. Les dates visibles sont alimentées par le corpus ; conserver les dates de publication et de relecture séparément.
+5. Vérifier les calculs, les liens et les images, puis publier le dossier docs sur GitHub Pages en poussant main. Le dépôt GitHub est la référence depuis le 2 octobre ; ne pas republier l’ancien projet Sites.
 
 Les réponses sont uniquement conservées en mémoire dans l'onglet. Aucun score global de candidat, aucun classement de vote. Un taux partiel doit afficher son dénominateur.
 
@@ -45,3 +45,31 @@ Mise à jour limitée aux faits documentés. Ajout de Mira Markovic (Parti anima
 Correction de l’entrée Écologistes : la page Projet 2027 fournit un programme de 557 mesures, dont le PDF porte juillet 2026. La disponibilité est vérifiée le 6 octobre ; aucun lancement en octobre n’est inventé. Document ajouté aux références sans recoder les réponses du QCM.
 
 Les dates de mise à jour éditoriale et de vérification des actualités sont affichées séparément de la date du corpus de comparaison (1er octobre). Les questions, positions et calculs restent inchangés.
+
+
+## Version 6.0 · 25 novembre 2026
+
+Revue générale des 47 profils suivis, des douze formations, des 48 questions et des références. Les pages effectivement relues portent leur date de contrôle ; les anciennes sources non remplacées gardent leur année. L’absence de nouveauté confirmée ne vaut pas preuve d’absence d’évolution. Les programmes et statuts restent provisoires, la liste officielle relevant du Conseil constitutionnel.
+
+### Candidatures et campagne
+
+- Primaire sociale-démocrate : [résultat annoncé le 11 octobre](https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la), Glucksmann désigné dès le premier tour, Faure, Royal, Guedj et Maurel non désignés. Le PS garde Olivier Faure comme représentant et indique son soutien à Glucksmann. Aucun pourcentage publié en raison d’écarts entre sources.
+- [Villepin déclaré le 20 novembre](https://villepin.fr/), [Ruffin retiré le 21 sans soutien formel dans son annonce](https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de). Tondelier reste candidate pendant la discussion de coalition et avant le vote militant de décembre. Soutien personnel d’Autain distinct de la décision de L’Après ; soutien de Génération.s officialisé le 23 novembre.
+- Six nouvelles fiches : annonces de Platret (8 octobre), Polony (14 octobre), Riner (9 novembre), et correction d’omissions plus anciennes : Labib (17 juin), Kazib (1er juin), Branco (19 décembre 2025). Ces corrections ne sont pas présentées comme de nouvelles déclarations de novembre. Cazeneuve reste non officialisé faute de nouvelle déclaration personnelle datée établie. Le Maire réaffirme ne pas être candidat dans son entretien du 15 novembre.
+- Bardella réélu à la présidence du RN au congrès d’octobre ; candidature et présidence de parti distinguées. La fiche Le Pen décrit le pourvoi en cassation et l’étape annoncée pour le 16 décembre sans trancher les analyses divergentes sur l’éligibilité. La primaire de la droite et du centre reste une discussion, pas une procédure actée.
+- Cinq portraits ajoutés avec crédits et licences : Platret, Polony, Riner, Kazib, Branco. Initiales pour Labib faute de licence photographique vérifiée.
+
+### Documents et questionnaire
+
+- [L’Avenir en commun](https://lafranceinsoumise.fr/2026/11/02/avenir-en-commun-nouvelle-france/) : édition publiée le 6 novembre, chapitres exacts reliés aux positions. Projet socialiste adopté en juillet, programme écologiste de juillet et livret travail de novembre relus. Ces textes plus anciens retrouvés ne sont pas présentés comme des publications nouvelles. Sources de campagne LO de novembre et propositions DLF relues. PCF : engagements NFP 2024 conservés lorsqu’aucun nouveau document central équivalent n’est établi ; source salariale locale identifiée.
+- Renaissance : conventions propres au parti de 2025 identifiées séparément de la coalition Ensemble 2024. LR : propositions actuelles relues ; peines minimales sans périmètre explicite de récidive exclues de la réponse binaire. RN : discours et mesures du site relus, corpus législatif 2024 conservé avec son année. UPR : orientations actuelles distinguées du programme 2022, programme 2027 encore en préparation.
+- Programme personnel d’Édouard Philippe (premier volume du 18 novembre) et priorités personnelles de Zemmour accessibles sur leurs fiches, avec quelques positions exactes documentées séparément. Aucun transfert automatique de ces positions au QCM des partis.
+- Question SMIC clarifiée : minimum de 1 600 € net à temps plein, permettant de comparer les objectifs nets supérieurs sans prétendre à une identité des montants ou des financements. Les 2 000 € brut des Écologistes restent non comparables ; aucune conversion estimée. La revendication LO et la source locale PCF sont qualifiées. Cette révision est datée dans le corpus. Aucune ancienne réponse persistée n’est réinterprétée : le site ne conserve les réponses qu’en mémoire et recharge le corpus avec un questionnaire vide.
+- Pour les autres questions, les différences de mécanisme, périmètre ou seuil restent exclues du calcul. CSG fusionnée et suppression partielle du 49.3 distinguées des propositions exactes. Le calcul conserve les mêmes dénominateurs et un poids égal des thèmes pour tous les partis.
+- Retrait de la position industrielle Reconquête auparavant attribuée à une page 2022 qui redirige maintenant vers des priorités sans cette mesure. Suppression des références inutilisées et indisponibles ; appel d’inscription à la primaire remplacé par son résultat. Actualités précédentes regroupées en archives.
+
+### Présentation et vérifications
+
+Dates du scrutin ajoutées avec [source Arcom](https://www.arcom.fr/temps-parole/election). Sources, repères et dates de relecture visibles dans les fiches. Les documents individuels restent séparés de ceux des formations. Le bandeau d’actualisation avant l’élection reste affiché. Publication manuelle, aucun suivi automatique installé.
+
+Export du corpus contrôlé, identifiants et références validés, images vérifiées, tests de comparaison réussis. Contrôle dans le navigateur du questionnaire, des 12 résultats et du recalcul après une réponse complémentaire, des filtres de candidats, des fiches et de l’actualité. Les liens bloqués par une protection d’accès ne sont pas assimilés automatiquement à des liens supprimés.
